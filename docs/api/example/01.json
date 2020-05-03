@@ -1,0 +1,22 @@
+{
+	"ok": true,
+	"logs" :[
+      {
+        "timestamp": "1588415728",
+        "type": "ssh",
+        "username": "root",
+        "src": "111.222.333.4",
+        "src_cc": "us",
+        "result": "refuse"
+      },
+      {
+        "timestamp": "1588415729",
+        "type": "ssh",
+        "username": "root",
+        "src": "111.222.333.4",
+        "src_cc": "us",
+        "result": "refuse"
+      }
+    ]
+}
+
