@@ -16,8 +16,8 @@ def targetlines(now:datetime, LOGFILE:pathlib.PosixPath):
         lines = [s.strip() for s in f.readlines()]
 
     log = []
-#    search_target_time = (now+datetime.timedelta(hours=-1)).strftime("%b  %-d %H") 
-    search_target_time = "May  4 19"
+    search_target_time = (now+datetime.timedelta(hours=-1)).strftime("%b  %-d %H")
+
     for line in lines:
         if line.find(search_target_time) >= 0:
              log.append(line.split())
@@ -64,18 +64,18 @@ def main():
     lines = targetlines (now, LOGFILE)
     j = operate (lines, now)
 
-    OUTPUT_FILE_NAME = "ssh_" + now.strftime('%Y-%m-%d_%H') + ".json"
+    OUTPUT_FILE_NAME = "ssh_" + (now+datetime.timedelta(hours=-1)).strftime('%Y-%m-%d_%H') + ".json"
     OUTPUT_FILE = pathlib.Path(str(OUTPUT_DIR) + "/" + OUTPUT_FILE_NAME)
-#    OUTPUT_FILE = pathlib.Path(str(OUTPUT_DIR) + "/example/" + OUTPUT_FILE_NAME)
 
     with open(OUTPUT_FILE, mode='w') as f:
         f.write(json.dumps(j, indent=4))
 
     git_repo= git.Repo(PJ_DIR)
     git_repo.index.add(str(OUTPUT_FILE))
-    commit_message = "add " + str(OUTPUT_FILE_NAME)
+    commit_message = "[batch] add " + str(OUTPUT_FILE_NAME)
     git_repo.index.commit(commit_message)
     git_repo.remotes.origin.push('HEAD')
 
 if __name__ == '__main__':
   main()
+
