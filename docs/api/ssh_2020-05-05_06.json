@@ -1,0 +1,63 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-05-05",
+            "time": "06:09:31",
+            "TZ": "+09:00",
+            "log_type": "ssh",
+            "log_type_sub": "Connection closed",
+            "ip": "198.108.66.208"
+        },
+        {
+            "date": "2020-05-05",
+            "time": "06:18:35",
+            "TZ": "+09:00",
+            "log_type": "ssh",
+            "log_type_sub": "Connection closed",
+            "ip": "54.234.14.84"
+        },
+        {
+            "date": "2020-05-05",
+            "time": "06:26:24",
+            "TZ": "+09:00",
+            "log_type": "ssh",
+            "log_type_sub": "Invalid user",
+            "user": "user",
+            "ip": "87.251.74.30"
+        },
+        {
+            "date": "2020-05-05",
+            "time": "06:26:25",
+            "TZ": "+09:00",
+            "log_type": "ssh",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "87.251.74.30"
+        },
+        {
+            "date": "2020-05-05",
+            "time": "06:26:25",
+            "TZ": "+09:00",
+            "log_type": "ssh",
+            "log_type_sub": "Connection closed",
+            "ip": "87.251.74.30"
+        },
+        {
+            "date": "2020-05-05",
+            "time": "06:26:26",
+            "TZ": "+09:00",
+            "log_type": "ssh",
+            "log_type_sub": "Connection closed",
+            "ip": "87.251.74.30"
+        },
+        {
+            "date": "2020-05-05",
+            "time": "06:26:27",
+            "TZ": "+09:00",
+            "log_type": "ssh",
+            "log_type_sub": "Connection closed",
+            "ip": "87.251.74.30"
+        }
+    ]
+}
