@@ -1,0 +1,50 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-05-04",
+            "time": "03:42:44",
+            "TZ": "+09:00",
+            "log_type": "ssh",
+            "log_type_sub": "Invalid user",
+            "user": "fake",
+            "ip": "209.141.37.175"
+        },
+        {
+            "date": "2020-05-04",
+            "time": "03:42:45",
+            "TZ": "+09:00",
+            "log_type": "ssh",
+            "log_type_sub": "Invalid user",
+            "user": "ubnt",
+            "ip": "209.141.37.175"
+        },
+        {
+            "date": "2020-05-04",
+            "time": "03:42:47",
+            "TZ": "+09:00",
+            "log_type": "ssh",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "209.141.37.175"
+        },
+        {
+            "date": "2020-05-04",
+            "time": "03:42:49",
+            "TZ": "+09:00",
+            "log_type": "ssh",
+            "log_type_sub": "Invalid user",
+            "user": "user",
+            "ip": "209.141.37.175"
+        },
+        {
+            "date": "2020-05-04",
+            "time": "03:42:50",
+            "TZ": "+09:00",
+            "log_type": "ssh",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "209.141.37.175"
+        }
+    ]
+}
