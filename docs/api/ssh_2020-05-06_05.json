@@ -1,0 +1,48 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-05-06",
+            "time": "05:20:13",
+            "TZ": "+09:00",
+            "log_type": "ssh",
+            "log_type_sub": "Connection closed",
+            "ip": "198.108.66.16"
+        },
+        {
+            "date": "2020-05-06",
+            "time": "05:29:25",
+            "TZ": "+09:00",
+            "log_type": "ssh",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "87.251.74.30"
+        },
+        {
+            "date": "2020-05-06",
+            "time": "05:29:25",
+            "TZ": "+09:00",
+            "log_type": "ssh",
+            "log_type_sub": "Invalid user",
+            "user": "from",
+            "ip": "port"
+        },
+        {
+            "date": "2020-05-06",
+            "time": "05:29:33",
+            "TZ": "+09:00",
+            "log_type": "ssh",
+            "log_type_sub": "Invalid user",
+            "user": "user",
+            "ip": "87.251.74.30"
+        },
+        {
+            "date": "2020-05-06",
+            "time": "05:29:35",
+            "TZ": "+09:00",
+            "log_type": "ssh",
+            "log_type_sub": "Connection closed",
+            "ip": "87.251.74.30"
+        }
+    ]
+}
