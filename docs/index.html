@@ -1,1 +1,55 @@
-hstn-pot
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>hstn-pot</title>
+<meta charset="utf-8">
+<meta name="description" content="">
+<meta name="author" content="s.hosoya">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="src/css/default.css">
+</head>
+
+<body>
+    <div class="top">
+        <div class="logo_div">
+            <img src="src/img/hstn-pot_logo.png">
+        </div>
+        <div class="menu">
+            <div class="clock" id="clock">
+            </div>
+        </div>
+    </div>
+    <hr>
+    <div class="body">
+        <div class="jsonbox" id="sample">
+            <div class="jsonbox_name" id="jsonbox_name">
+            </div>
+            <div class="jsonbox_body" id="jsonbox_body">
+            </div>
+        </div>
+    </div>
+
+    <!-- 現在時刻を表示しておく: https://www.nishishi.com/javascript-tips/realtime-clock-setinterval.html -->
+    <script type="text/javascript">
+        function set2fig(num) {
+           var ret;
+           if( num < 10 ) { ret = "0" + num; }
+           else { ret = num; }
+           return ret;
+        }
+        function showClock () {
+            let nowTime = new Date();
+            let nowHour = set2fig(nowTime.getHours());
+            let nowMin = set2fig(nowTime.getMinutes());
+            let nowSec = set2fig(nowTime.getSeconds());
+            let currentTime = "現在時刻 : " + nowHour + ":" + nowMin + ":" + nowSec;
+            document.getElementById("clock").innerHTML = currentTime;
+        }
+        setInterval('showClock()',100);
+    </script>
+
+    <!-- ページロード時のjsを実行 -->
+    <script type="text/javascript" src="src/js/index.js"></script>
+</body>
+</html>
