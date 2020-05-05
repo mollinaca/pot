@@ -70,10 +70,27 @@ def main():
     with open(OUTPUT_FILE, mode='w') as f:
         f.write(json.dumps(j, indent=4))
 
+    # update metadata.json
+    METADATA_FILE_NAME = "metadata.json"
+    METADATA_FILE = pathlib.Path(str(OUTPUT_DIR) + "/" + METADATA_FILE_NAME)
+
+    with open(METADATA_FILE, mode="r") as f:
+        metadata_json = json.load(f)
+    metadata_json['metadata']['ssh']['latest'] = OUTPUT_FILE_NAME
+    with open(METADATA_FILE, mode="w") as f:
+        f.write(json.dumps(metadata_json, indent=4))
+
+    # commit to git
     git_repo= git.Repo(PJ_DIR)
+
     git_repo.index.add(str(OUTPUT_FILE))
     commit_message = "[batch] add " + str(OUTPUT_FILE_NAME)
     git_repo.index.commit(commit_message)
+
+    git_repo.index.add(str(METADATA_FILE))
+    commit_message = "[batch] update " + str(METADATA_FILE)
+    git_repo.index.commit(commit_message)
+
     git_repo.remotes.origin.push('HEAD')
 
 if __name__ == '__main__':
