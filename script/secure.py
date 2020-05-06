@@ -6,6 +6,7 @@ import json
 import datetime
 import pathlib
 import git
+from ipwhois import IPWhois
 
 
 def targetlines(now:datetime, LOGFILE:pathlib.PosixPath):
@@ -38,7 +39,10 @@ def operate (lines:list, now:datetime):
             time = line[2]
             log_type_sub = "Connection closed"
             ip = line[8]
-            log = {"date": date, "time":time, "TZ":tz, "log_type": log_type, "log_type_sub": log_type_sub, "ip": ip}
+            whois = IPWhois(ip)
+            res = whois.lookup_whois()
+            country = res['nets'][0]['country']
+            log = {"date": date, "time":time, "TZ":tz, "log_type": log_type, "log_type_sub": log_type_sub, "ip": ip, "country": country}
             logs.append(log)
 
         elif "Invalid" in line and "user" in line:
@@ -49,7 +53,10 @@ def operate (lines:list, now:datetime):
             if ip == "port":
                 ip = line[8]
                 user = " "
-            log = {"date": date, "time":time, "TZ":tz, "log_type": log_type, "log_type_sub": log_type_sub, "user": user, "ip": ip}
+            whois = IPWhois(ip)
+            res = whois.lookup_whois()
+            country = res['nets'][0]['country']
+            log = {"date": date, "time":time, "TZ":tz, "log_type": log_type, "log_type_sub": log_type_sub, "user": user, "ip": ip, "country": country}
             logs.append(log)
         else:
             pass
@@ -98,5 +105,4 @@ def main():
 
 if __name__ == '__main__':
   main()
-
 
