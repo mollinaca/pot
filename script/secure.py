@@ -46,6 +46,9 @@ def operate (lines:list, now:datetime):
             log_type_sub = "Invalid user"
             user = line[7]
             ip = line[9]
+            if ip == "port":
+                ip = line[8]
+                user = " "
             log = {"date": date, "time":time, "TZ":tz, "log_type": log_type, "log_type_sub": log_type_sub, "user": user, "ip": ip}
             logs.append(log)
         else:
@@ -95,4 +98,5 @@ def main():
 
 if __name__ == '__main__':
   main()
+
 
