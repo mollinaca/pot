@@ -7,6 +7,7 @@ verify_ssl = true
 
 [packages]
 gitpython = "*"
+ipwhois = "*"
 
 [requires]
 python_version = "3.8"
