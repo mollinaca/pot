@@ -70,7 +70,7 @@
 }
 .tablebox {
     background: white;
-    width: 200px;
+    width: auto;
     height: 200px;
     margin: 10px;
     padding: 10px;
@@ -81,16 +81,18 @@ table{
     width: 100%;
     border-collapse: collapse;
     border-spacing: 0;
+    margin: 10px;
+    padding: 10px 0;
   }
   
   table th{
-      padding: 10px 0;
+      padding: 10px 10px;
       text-decoration: underline;
       text-align: center;
   }
   
   table td{
-    padding: 10px 0;
+    padding: 10px 10px;
     text-align: center;
   }
   
@@ -134,5 +136,4 @@ table{
     bottom: 20px;
     right:20px;
 }
-
 
