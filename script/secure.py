@@ -30,7 +30,13 @@ def operate (lines:list, now:datetime):
     ログの内容ごとに抽出する
     """
     logs = []
-    date = now.strftime('%Y-%m-%d')
+
+    now_hour = int(now.strftime("%H"))
+    if now_hour == 0:
+        date = (now+datetime.timedelta(days=-1)).strftime('%Y-%m-%d')
+    else:
+        date = now.strftime('%Y-%m-%d')
+
     tz = "+09:00"
     log_type = "ssh"
 
