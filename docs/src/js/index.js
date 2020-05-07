@@ -51,6 +51,8 @@ function init() {
             let count_iu = 0;
             let count_user = {};
             let count_ip = {};
+            let ip_cc = {};
+
             Object.keys(logs).forEach(function(key) {
                 ip = logs[key].ip;
                 if (count_ip[ip]) {
@@ -58,6 +60,12 @@ function init() {
                 } else {
                     count_ip[ip] = 1
                 };
+
+                cc = logs[key].country;
+//                console.log(cc)
+                if (!ip_cc[ip]) {
+                    ip_cc[ip] = cc
+                }
 
                 if (logs[key].log_type_sub == "Connection closed") {
                     count_cc += 1
@@ -98,7 +106,7 @@ function init() {
             let tablebox1 = document.getElementById('tablebox1');
             let table1_summary_html = "<table>";
             table1_summary_html += "<tr><th> サマリ <th></tr>";
-            table1_summary_html += "<tr><td> ログ行数 </td><td> " + logs.length + "</td></tr>";
+            table1_summary_html += "<tr><td> ログ取得数 </td><td> " + logs.length + "</td></tr>";
             table1_summary_html += "<tr><td> Connection closed </td><td> " + count_cc + "</td></tr>";
             table1_summary_html += "<tr><td> Invalid user </td><td> " + count_iu + "</td></tr>";
             table1_summary_html += "</table>";
@@ -122,7 +130,7 @@ function init() {
 
             // table3 IPアドレス別
             let tablebox3 = document.getElementById('tablebox3');
-            let table3_summary_html = "<table><tr><th> IPアドレス </th><th> 試行回数 </th></tr>";
+            let table3_summary_html = "<table><tr><th> IPアドレス </th><th> 試行回数 </th><th> 国コード </th></tr>";
 //            console.log("table3");
 //            console.log(count_ip);
             if (Object.keys(count_ip).length > 3) {
@@ -131,7 +139,8 @@ function init() {
                 max = Object.keys(count_ip).length
             };
             for (let i = 0; i < max; i++) {
-                table3_summary_html += "<tr><td> " + ip_keys[i] + " </td><td> " + count_ip[ip_keys[i]] + " </td></tr>";
+//                console.log (ip_keys[i])
+                table3_summary_html += "<tr><td> " + ip_keys[i] + " </td><td> " + count_ip[ip_keys[i]] + " </td><td> " + ip_cc[ip_keys[i]] +"</td></tr>";
             }
             table3_summary_html += "</table>";
             tablebox3.innerHTML = table3_summary_html;
@@ -145,5 +154,4 @@ function init() {
 ///-----------------------
 
 window.onload = init;
-
 
