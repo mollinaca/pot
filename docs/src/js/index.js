@@ -86,21 +86,25 @@ function init() {
             });
 
             // user を回数で sort
-            let user_keys=[];
-            for(var key in count_user)user_keys.push(key);
-            function Compare(a,b){
-                return count_user[b]-count_user[a];
-            }
-            user_keys.sort(Compare)
+            let arr_count_user = Object.keys(count_user).map((e)=>({ user: e, count: count_user[e] }));
+//            console.log(arr_count_user)
+            arr_count_user.sort(function(a,b){
+                if(a.count < b.count) return 1 ;
+                if(a.count > b.count) return -1;
+                return 0;
+              });
+//            console.log(arr_count_user);
 
-            // ip を回数で sort
-//            console.log(count_ip)
-            let ip_keys=[];
-            for(var key in count_ip)ip_keys.push(key);
-            function Compare(a,b){
-                return count_ip[b]-count_ip[a];
-            }
-            ip_keys.sort(Compare)
+              // ip を回数で sort
+            let arr_count_ip = Object.keys(count_ip).map((e)=>({ ip: e, count: count_ip[e] }));
+//            console.log(arr_count_user)
+            arr_count_ip.sort(function(a,b){
+                if(a.count < b.count) return 1 ;
+                if(a.count > b.count) return -1;
+                return 0;
+              });
+//            console.log(arr_count_ip)
+
 
             // table1
             let tablebox1 = document.getElementById('tablebox1');
@@ -116,14 +120,13 @@ function init() {
             let tablebox2 = document.getElementById('tablebox2');
             let table2_summary_html = "<table><tr><th> ユーザ名 </th><th> 試行回数 </th></tr>";
 //            console.log("table2");
-//            console.log(count_user);
             if (Object.keys(count_user).length > 3) {
                 max = 3
             } else {
                 max = Object.keys(count_user).length
             };
             for (let i = 0; i < max; i++) {
-                table2_summary_html += "<tr><td> " + user_keys[i] + " </td><td> " + count_user[user_keys[i]] + " </td></tr>";
+                table2_summary_html += "<tr><td> " + arr_count_user[i].user + " </td><td> " + arr_count_user[i].count + " </td></tr>";
             }
             table2_summary_html += "</table>";
             tablebox2.innerHTML = table2_summary_html;
@@ -132,15 +135,13 @@ function init() {
             let tablebox3 = document.getElementById('tablebox3');
             let table3_summary_html = "<table><tr><th> IPアドレス </th><th> 試行回数 </th><th> 国コード </th></tr>";
 //            console.log("table3");
-//            console.log(count_ip);
             if (Object.keys(count_ip).length > 3) {
                 max = 3
             } else {
                 max = Object.keys(count_ip).length
             };
             for (let i = 0; i < max; i++) {
-//                console.log (ip_keys[i])
-                table3_summary_html += "<tr><td> " + ip_keys[i] + " </td><td> " + count_ip[ip_keys[i]] + " </td><td> " + ip_cc[ip_keys[i]] +"</td></tr>";
+                table3_summary_html += "<tr><td> " + arr_count_ip[i].ip + " </td><td> " + arr_count_ip[i].count + " </td><td> " + ip_cc[arr_count_ip[i].ip] +"</td></tr>";
             }
             table3_summary_html += "</table>";
             tablebox3.innerHTML = table3_summary_html;
@@ -154,4 +155,5 @@ function init() {
 ///-----------------------
 
 window.onload = init;
+
 
