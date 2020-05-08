@@ -64,6 +64,17 @@ def operate (lines:list, now:datetime):
             country = res['nets'][0]['country']
             log = {"date": date, "time":time, "TZ":tz, "log_type": log_type, "log_type_sub": log_type_sub, "user": user, "ip": ip, "country": country}
             logs.append(log)
+
+        elif "Did" in line and "not" in line and "receive" in line and "identification":
+            time = line[2]
+            log_type_sub = "Did not receive identification string"
+            ip = line[11]
+            whois = IPWhois(ip)
+            res = whois.lookup_whois()
+            country = res['nets'][0]['country']
+            log = {"date": date, "time":time, "TZ":tz, "log_type": log_type, "log_type_sub": log_type_sub, "ip": ip, "country": country}
+            logs.append(log)
+
         else:
             pass
 
