@@ -17,24 +17,17 @@ def targetlines(now:datetime, LOGFILE:pathlib.PosixPath):
         lines = [s.strip() for s in f.readlines()]
 
     log = []
-    search_target_time = (now+datetime.timedelta(hours=-1)).strftime("%b  %-d %H")
+    date = int((now+datetime.timedelta(hours=t)).strftime("%-d"))
+    if date < 10:
+        search_target_time = (now+datetime.timedelta(hours=t)).strftime("%b  %-d %H")
+    else:
+        search_target_time = (now+datetime.timedelta(hours=t)).strftime("%b %-d %H")
 
     for line in lines:
         if line.find(search_target_time) >= 0:
              log.append(line.split())
 
     return log
-
-
-def search_ip (ip:str):
-    try:
-        whois = IPWhois(ip)
-        res = whois.lookup_whois()
-        country = res['nets'][0]['country']
-    except Exception as e:
-        country = "ipwhois error"
-        print (f"{e=}", file=sys.stderr)    
-    return country
 
 def operate (lines:list, now:datetime):
     """
@@ -56,7 +49,9 @@ def operate (lines:list, now:datetime):
             time = line[2]
             log_type_sub = "Connection closed"
             ip = line[8]
-            country = search_ip(ip)
+            whois = IPWhois(ip)
+            res = whois.lookup_whois()
+            country = res['nets'][0]['country']
             log = {"date": date, "time":time, "TZ":tz, "log_type": log_type, "log_type_sub": log_type_sub, "ip": ip, "country": country}
             logs.append(log)
 
@@ -68,7 +63,9 @@ def operate (lines:list, now:datetime):
             if ip == "port":
                 ip = line[8]
                 user = " "
-            country = search_ip(ip)
+            whois = IPWhois(ip)
+            res = whois.lookup_whois()
+            country = res['nets'][0]['country']
             log = {"date": date, "time":time, "TZ":tz, "log_type": log_type, "log_type_sub": log_type_sub, "user": user, "ip": ip, "country": country}
             logs.append(log)
 
@@ -76,7 +73,9 @@ def operate (lines:list, now:datetime):
             time = line[2]
             log_type_sub = "Did not receive identification string"
             ip = line[11]
-            country = search_ip(ip)
+            whois = IPWhois(ip)
+            res = whois.lookup_whois()
+            country = res['nets'][0]['country']
             log = {"date": date, "time":time, "TZ":tz, "log_type": log_type, "log_type_sub": log_type_sub, "ip": ip, "country": country}
             logs.append(log)
 
