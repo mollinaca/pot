@@ -18,11 +18,28 @@
         <div class="menu">
             <div class="clock" id="clock">
             </div>
+            <form name="menu">
+                <div>
+                    <input type="radio" id="hourly" name="time_type" value="hourly" onchange="OnChangeHourly();" checked>
+                    <label for="hourly">hourly</label>
+                </div>
+                <div>
+                    <input type="radio" id="daily" name="time_type" value="daily" onchange="OnChangeDaily();">
+                    <label for="daily">daily</label>
+                </div>
+                <input type="tel" name="y" id="y" maxlength="4"/>
+                <input type="tel" name="m" id="m" maxlength="2"/>
+                <input type="tel" name="d" id="d" maxlength="2"/>
+                <input type="tel" name="h" id="h" maxlength="2"/>
+                <div>
+                    <input type="button" value="表示" onclick="OnButtonClick();"/><br />
+                </div>
+            </form>
         </div>
     </div>
     <hr>
     <div class="body">
-        <div class="jsonbox" id="sample">
+        <div class="jsonbox" id="jsonbox">
             <div class="jsonbox_name" id="jsonbox_name">
             </div>
             <div class="jsonbox_body" id="jsonbox_body">
