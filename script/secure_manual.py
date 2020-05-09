@@ -26,7 +26,11 @@ def targetlines(now:datetime, LOGFILE:pathlib.PosixPath):
         lines = [s.strip() for s in f.readlines()]
 
     log = []
-    search_target_time = (now+datetime.timedelta(hours=t)).strftime("%b  %-d %H")
+    date = int((now+datetime.timedelta(hours=t)).strftime("%-d"))
+    if date < 10:
+        search_target_time = (now+datetime.timedelta(hours=t)).strftime("%b  %-d %H")
+    else:
+        search_target_time = (now+datetime.timedelta(hours=t)).strftime("%b %-d %H")
 
     for line in lines:
         if line.find(search_target_time) >= 0:
