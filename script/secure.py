@@ -25,6 +25,17 @@ def targetlines(now:datetime, LOGFILE:pathlib.PosixPath):
 
     return log
 
+
+def search_ip (ip:str):
+    try:
+        whois = IPWhois(ip)
+        res = whois.lookup_whois()
+        country = res['nets'][0]['country']
+    except Exception as e:
+        country = "ipwhois error"
+        print (f"{e=}", file=sys.stderr)    
+    return country
+
 def operate (lines:list, now:datetime):
     """
     ログの内容ごとに抽出する
@@ -45,9 +56,7 @@ def operate (lines:list, now:datetime):
             time = line[2]
             log_type_sub = "Connection closed"
             ip = line[8]
-            whois = IPWhois(ip)
-            res = whois.lookup_whois()
-            country = res['nets'][0]['country']
+            country = search_ip(ip)
             log = {"date": date, "time":time, "TZ":tz, "log_type": log_type, "log_type_sub": log_type_sub, "ip": ip, "country": country}
             logs.append(log)
 
@@ -59,9 +68,7 @@ def operate (lines:list, now:datetime):
             if ip == "port":
                 ip = line[8]
                 user = " "
-            whois = IPWhois(ip)
-            res = whois.lookup_whois()
-            country = res['nets'][0]['country']
+            country = search_ip(ip)
             log = {"date": date, "time":time, "TZ":tz, "log_type": log_type, "log_type_sub": log_type_sub, "user": user, "ip": ip, "country": country}
             logs.append(log)
 
@@ -69,9 +76,7 @@ def operate (lines:list, now:datetime):
             time = line[2]
             log_type_sub = "Did not receive identification string"
             ip = line[11]
-            whois = IPWhois(ip)
-            res = whois.lookup_whois()
-            country = res['nets'][0]['country']
+            country = search_ip(ip)
             log = {"date": date, "time":time, "TZ":tz, "log_type": log_type, "log_type_sub": log_type_sub, "ip": ip, "country": country}
             logs.append(log)
 
