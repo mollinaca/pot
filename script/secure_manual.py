@@ -45,7 +45,7 @@ def search_ip (ip:str):
         country = res['nets'][0]['country']
     except Exception as e:
         country = "ipwhois error"
-        print (f"{e=}", file=sys.stderr)    
+        print (f"{e=}", file=sys.stderr)
     return country
 
 def operate (lines:list, now:datetime):
@@ -94,6 +94,17 @@ def operate (lines:list, now:datetime):
             print (f"{ip=}")
             country = search_ip(ip)
             log = {"date": date, "time":time, "TZ":tz, "log_type": log_type, "log_type_sub": log_type_sub, "ip": ip, "country": country}
+            logs.append(log)
+
+        elif "Accepted" in line and "publickey" in line:
+            time = line[2]
+            log_type_sub = "Accepted publickey"
+            ip = line[10]
+            whois = IPWhois(ip)
+            res = whois.lookup_whois()
+            country = res['nets'][0]['country']
+            user = line[8]
+            log = {"date": date, "time":time, "TZ":tz, "log_type": log_type, "log_type_sub": log_type_sub, "user": user, "ip": ip, "country": country}
             logs.append(log)
 
         else:
