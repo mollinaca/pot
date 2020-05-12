@@ -22,7 +22,7 @@ function init() {
     metadata.responseType = 'json';
     metadata.onload = function() {
         let json = this.response;
-        let latestFilename = json.metadata.ssh.latest;
+        let latestFilename = json.metadata.secure.latest;
         console.log(`28: ${latestFilename}`)
         jsonbox_name.innerHTML = "latest log: " + "<a href=\"" + API_ENDPOINT + latestFilename + "\">" + API_ENDPOINT + latestFilename + "</a>";
         y = latestFilename.substr(4,4)
@@ -33,7 +33,7 @@ function init() {
         document.getElementById("m").value = m;
         document.getElementById("d").value = d;
         document.getElementById("h").value = h;
-        
+
         let log = new XMLHttpRequest();
         let log_url = API_ENDPOINT + latestFilename
 //        console.log (log_url)
@@ -98,7 +98,7 @@ function init() {
                 if(a.count < b.count) return 1 ;
                 if(a.count > b.count) return -1;
                 return 0;
-              });
+            });
 //            console.log(arr_count_user);
 
               // ip を回数で sort
@@ -108,7 +108,7 @@ function init() {
                 if(a.count < b.count) return 1 ;
                 if(a.count > b.count) return -1;
                 return 0;
-              });
+            });
 //            console.log(arr_count_ip)
 
 
@@ -225,7 +225,7 @@ function GetData(filename) {
             if(a.count < b.count) return 1 ;
             if(a.count > b.count) return -1;
             return 0;
-          });
+        });
 //            console.log(arr_count_user);
 
           // ip を回数で sort
@@ -235,7 +235,7 @@ function GetData(filename) {
             if(a.count < b.count) return 1 ;
             if(a.count > b.count) return -1;
             return 0;
-          });
+        });
 //            console.log(arr_count_ip)
 
 
@@ -296,12 +296,12 @@ function OnButtonClick () {
     let d = document.getElementById("d").value;
 
     if (document.menu.time_type[1].checked) {
-        LOG_FILENAME = "ssh_" + y + "-" + m + "-" + d + ".json"
+        LOG_FILENAME = "secure_" + y + "-" + m + "-" + d + ".json"
     } else {
         let h = document.getElementById("h").value;
-        LOG_FILENAME = "ssh_" + y + "-" + m + "-" + d + "_" + h + ".json"
+        LOG_FILENAME = "secure_" + y + "-" + m + "-" + d + "_" + h + ".json"
     }
-    
+
     GetData (LOG_FILENAME)
 }
 
