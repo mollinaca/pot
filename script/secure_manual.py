@@ -34,7 +34,7 @@ def targetlines(now:datetime, LOGFILE:pathlib.PosixPath):
 
     for line in lines:
         if line.find(search_target_time) >= 0:
-             log.append(line.split())
+            log.append(line.split())
 
     return log
 
@@ -61,7 +61,7 @@ def operate (lines:list, now:datetime):
         date = (now+datetime.timedelta(hours=t)).strftime('%Y-%m-%d')
 
     tz = "+09:00"
-    log_type = "ssh"
+    log_type = "secure"
 
     for line in lines:
         print (f"{line=}")
@@ -112,7 +112,7 @@ def main():
     lines = targetlines (now, LOGFILE)
     j = operate (lines, now)
 
-    OUTPUT_FILE_NAME = "ssh_" + (now+datetime.timedelta(hours=t)).strftime('%Y-%m-%d_%H') + ".json"
+    OUTPUT_FILE_NAME = "secure_" + (now+datetime.timedelta(hours=t)).strftime('%Y-%m-%d_%H') + ".json"
     OUTPUT_FILE = pathlib.Path(str(OUTPUT_DIR) + "/" + OUTPUT_FILE_NAME)
 
     with open(OUTPUT_FILE, mode='w') as f:
@@ -125,7 +125,7 @@ def main():
 #
 #    with open(METADATA_FILE, mode="r") as f:
 #        metadata_json = json.load(f)
-#    metadata_json['metadata']['ssh']['latest'] = OUTPUT_FILE_NAME
+#    metadata_json['metadata']['secure']['latest'] = OUTPUT_FILE_NAME
 #    with open(METADATA_FILE, mode="w") as f:
 #        f.write(json.dumps(metadata_json, indent=4))
 #
@@ -143,5 +143,5 @@ def main():
 #    git_repo.remotes.origin.push('HEAD')
 
 if __name__ == '__main__':
-  main()
+    main()
 

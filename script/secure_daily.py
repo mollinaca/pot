@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 前日24時間分のログを集計して、前日分のサマリログとする
-出力ファイル名: ssh_yyyy-mm-dd.json
+出力ファイル名: secure_yyyy-mm-dd.json
 """
 import sys, os
 import re
@@ -16,7 +16,7 @@ def operate (now:datetime, dir:str):
     対象のファイル一覧を取得する
     """
     logs = []
-    target_filename = "ssh_" + (now+datetime.timedelta(days=-1)).strftime('%Y-%m-%d') + "_\d+.json"
+    target_filename = "secure_" + (now+datetime.timedelta(days=-1)).strftime('%Y-%m-%d') + "_\d+.json"
     target_jsons = [p for p in dir.iterdir() if p.is_file() and re.search(target_filename, str(p))]
     for target_json in target_jsons:
         with open(target_json, "r") as f:
@@ -27,7 +27,7 @@ def operate (now:datetime, dir:str):
 
     j = {"ok": True, "logs":logs}
     return j
-    
+
 def main():
     SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
     PJ_DIR = SCRIPT_DIR.parents[0]
@@ -36,7 +36,7 @@ def main():
     now = datetime.datetime.now()
     j = operate (now, OUTPUT_DIR)
 
-    OUTPUT_FILE_NAME = "ssh_" + (now+datetime.timedelta(days=-1)).strftime('%Y-%m-%d') + ".json"
+    OUTPUT_FILE_NAME = "secure_" + (now+datetime.timedelta(days=-1)).strftime('%Y-%m-%d') + ".json"
     OUTPUT_FILE = pathlib.Path(str(OUTPUT_DIR) + "/" + OUTPUT_FILE_NAME)
 
     with open(OUTPUT_FILE, mode='w') as f:
@@ -50,5 +50,5 @@ def main():
     git_repo.remotes.origin.push('HEAD')
 
 if __name__ == '__main__':
-  main()
+    main()
 
