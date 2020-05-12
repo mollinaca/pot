@@ -25,10 +25,10 @@ function init() {
         let latestFilename = json.metadata.secure.latest;
         console.log(`28: ${latestFilename}`)
         jsonbox_name.innerHTML = "latest log: " + "<a href=\"" + API_ENDPOINT + latestFilename + "\">" + API_ENDPOINT + latestFilename + "</a>";
-        y = latestFilename.substr(4,4)
-        m = latestFilename.substr(9,2)
-        d = latestFilename.substr(12,2)
-        h = latestFilename.substr(15,2)
+        y = latestFilename.substr(7,4)
+        m = latestFilename.substr(12,2)
+        d = latestFilename.substr(15,2)
+        h = latestFilename.substr(18,2)
         document.getElementById("y").value = y;
         document.getElementById("m").value = m;
         document.getElementById("d").value = d;
