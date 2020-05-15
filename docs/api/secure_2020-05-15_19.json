@@ -1,0 +1,100 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-05-15",
+            "time": "19:23:59",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "username",
+            "ip": "198.98.53.133",
+            "country": "US"
+        },
+        {
+            "date": "2020-05-15",
+            "time": "19:32:14",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": " ",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-05-15",
+            "time": "19:32:14",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-05-15",
+            "time": "19:32:18",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-05-15",
+            "time": "19:32:18",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-05-15",
+            "time": "19:32:27",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "user",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-05-15",
+            "time": "19:32:29",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-05-15",
+            "time": "19:34:42",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "123.23.84.208",
+            "country": "VN"
+        },
+        {
+            "date": "2020-05-15",
+            "time": "19:34:47",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin2",
+            "ip": "123.23.84.208",
+            "country": "VN"
+        },
+        {
+            "date": "2020-05-15",
+            "time": "19:34:47",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "123.23.84.208",
+            "country": "VN"
+        }
+    ]
+}
