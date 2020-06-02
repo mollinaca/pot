@@ -1,0 +1,80 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-06-02",
+            "time": "18:11:39",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "162.243.140.140",
+            "country": "US"
+        },
+        {
+            "date": "2020-06-02",
+            "time": "18:35:58",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "odoo",
+            "ip": "45.14.224.69",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-02",
+            "time": "18:35:58",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-02",
+            "time": "18:36:10",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "user",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-02",
+            "time": "18:36:12",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-02",
+            "time": "18:36:15",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-02",
+            "time": "18:36:16",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-02",
+            "time": "18:36:23",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        }
+    ]
+}
