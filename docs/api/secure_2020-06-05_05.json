@@ -1,0 +1,71 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-06-05",
+            "time": "05:02:02",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "209.17.97.34",
+            "country": "US"
+        },
+        {
+            "date": "2020-06-05",
+            "time": "05:32:22",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-05",
+            "time": "05:32:23",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": " ",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-05",
+            "time": "05:32:30",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-05",
+            "time": "05:32:31",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-05",
+            "time": "05:32:37",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "user",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-05",
+            "time": "05:32:38",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        }
+    ]
+}
