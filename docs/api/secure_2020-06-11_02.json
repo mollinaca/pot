@@ -1,0 +1,64 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-06-11",
+            "time": "02:01:09",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "jordi",
+            "ip": "41.78.75.45",
+            "country": "SO"
+        },
+        {
+            "date": "2020-06-11",
+            "time": "02:07:32",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "oracle",
+            "ip": "118.201.138.94",
+            "country": "SG"
+        },
+        {
+            "date": "2020-06-11",
+            "time": "02:37:18",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-11",
+            "time": "02:37:32",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": " ",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-11",
+            "time": "02:37:47",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "user",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-11",
+            "time": "02:53:56",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "sshpk",
+            "ip": "51.178.85.190",
+            "country": "FR"
+        }
+    ]
+}
