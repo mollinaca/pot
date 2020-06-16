@@ -1,0 +1,91 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-06-17",
+            "time": "01:23:15",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-17",
+            "time": "01:23:25",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "user",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-17",
+            "time": "01:23:30",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-17",
+            "time": "01:23:31",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-17",
+            "time": "01:23:36",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "support",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-17",
+            "time": "01:23:37",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-17",
+            "time": "01:30:30",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "user",
+            "ip": "190.210.182.179",
+            "country": "AR"
+        },
+        {
+            "date": "2020-06-17",
+            "time": "01:33:13",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "sandbox",
+            "ip": "138.197.129.38",
+            "country": "US"
+        },
+        {
+            "date": "2020-06-17",
+            "time": "01:44:50",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "gtp",
+            "ip": "35.244.25.124",
+            "country": "US"
+        }
+    ]
+}
