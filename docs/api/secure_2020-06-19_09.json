@@ -1,0 +1,54 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-06-19",
+            "time": "09:12:05",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "vmware",
+            "ip": "151.80.140.166",
+            "country": "FR"
+        },
+        {
+            "date": "2020-06-19",
+            "time": "09:21:05",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "151.229.240.181",
+            "country": "GB"
+        },
+        {
+            "date": "2020-06-19",
+            "time": "09:21:54",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "tarun",
+            "ip": "103.23.100.87",
+            "country": "ID"
+        },
+        {
+            "date": "2020-06-19",
+            "time": "09:23:45",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "mpp",
+            "ip": "213.141.131.22",
+            "country": "RU"
+        },
+        {
+            "date": "2020-06-19",
+            "time": "09:58:15",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "cb",
+            "ip": "157.230.31.236",
+            "country": "US"
+        }
+    ]
+}
