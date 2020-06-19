@@ -1,0 +1,101 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-06-19",
+            "time": "13:24:11",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "servidor1",
+            "ip": "95.243.136.198",
+            "country": "IT"
+        },
+        {
+            "date": "2020-06-19",
+            "time": "13:24:44",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "test",
+            "ip": "124.156.199.234",
+            "country": "SG"
+        },
+        {
+            "date": "2020-06-19",
+            "time": "13:30:51",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "economist",
+            "ip": "54.36.159.88",
+            "country": "LT"
+        },
+        {
+            "date": "2020-06-19",
+            "time": "13:32:26",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-19",
+            "time": "13:32:35",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": " ",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-19",
+            "time": "13:32:35",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-19",
+            "time": "13:32:52",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.239.35.161",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-19",
+            "time": "13:33:42",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "gusiyu",
+            "ip": "185.110.95.6",
+            "country": "DE"
+        },
+        {
+            "date": "2020-06-19",
+            "time": "13:46:09",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "lsr",
+            "ip": "103.75.208.53",
+            "country": "ID"
+        },
+        {
+            "date": "2020-06-19",
+            "time": "13:55:31",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "196.52.43.64",
+            "country": "US"
+        }
+    ]
+}
