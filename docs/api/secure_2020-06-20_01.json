@@ -1,0 +1,73 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-06-20",
+            "time": "01:05:36",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "162.243.136.88",
+            "country": "US"
+        },
+        {
+            "date": "2020-06-20",
+            "time": "01:11:02",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "support",
+            "ip": "142.44.223.237",
+            "country": "CA"
+        },
+        {
+            "date": "2020-06-20",
+            "time": "01:17:17",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "nagios",
+            "ip": "176.31.252.148",
+            "country": "FR"
+        },
+        {
+            "date": "2020-06-20",
+            "time": "01:17:35",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "amber",
+            "ip": "107.170.57.221",
+            "country": "US"
+        },
+        {
+            "date": "2020-06-20",
+            "time": "01:20:32",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ssz",
+            "ip": "111.229.79.17",
+            "country": "CN"
+        },
+        {
+            "date": "2020-06-20",
+            "time": "01:28:30",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "maria",
+            "ip": "218.240.137.68",
+            "country": "CN"
+        },
+        {
+            "date": "2020-06-20",
+            "time": "01:53:21",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "138.99.216.112",
+            "country": "BZ"
+        }
+    ]
+}
