@@ -1,0 +1,54 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-06-19",
+            "time": "15:36:55",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "45.148.10.183",
+            "country": "AD"
+        },
+        {
+            "date": "2020-06-19",
+            "time": "15:46:54",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "mail1",
+            "ip": "138.68.95.204",
+            "country": "US"
+        },
+        {
+            "date": "2020-06-19",
+            "time": "15:47:44",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "stefan",
+            "ip": "110.43.49.148",
+            "country": "CN"
+        },
+        {
+            "date": "2020-06-19",
+            "time": "15:51:45",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "afc",
+            "ip": "51.178.24.61",
+            "country": "FR"
+        },
+        {
+            "date": "2020-06-19",
+            "time": "15:57:03",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "backup",
+            "ip": "204.48.19.178",
+            "country": "US"
+        }
+    ]
+}
