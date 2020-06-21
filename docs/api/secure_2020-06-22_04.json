@@ -1,0 +1,72 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-06-22",
+            "time": "04:07:36",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "edison",
+            "ip": "91.134.167.236",
+            "country": "FR"
+        },
+        {
+            "date": "2020-06-22",
+            "time": "04:12:13",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "taiga",
+            "ip": "106.13.40.65",
+            "country": "CN"
+        },
+        {
+            "date": "2020-06-22",
+            "time": "04:14:19",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "rw",
+            "ip": "182.176.118.60",
+            "country": "PK"
+        },
+        {
+            "date": "2020-06-22",
+            "time": "04:22:00",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "test",
+            "ip": "190.32.21.250",
+            "country": "PA"
+        },
+        {
+            "date": "2020-06-22",
+            "time": "04:48:35",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "209.17.97.74",
+            "country": "US"
+        },
+        {
+            "date": "2020-06-22",
+            "time": "04:58:36",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.102",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-22",
+            "time": "04:58:42",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.102",
+            "country": "NL"
+        }
+    ]
+}
