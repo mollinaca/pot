@@ -1,0 +1,72 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-06-24",
+            "time": "05:18:49",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "odoo",
+            "ip": "49.234.87.24",
+            "country": "CN"
+        },
+        {
+            "date": "2020-06-24",
+            "time": "05:20:45",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "frankie",
+            "ip": "137.74.199.180",
+            "country": "FR"
+        },
+        {
+            "date": "2020-06-24",
+            "time": "05:26:29",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.101",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-24",
+            "time": "05:26:34",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.101",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-24",
+            "time": "05:26:40",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.101",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-24",
+            "time": "05:33:17",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "olx",
+            "ip": "212.47.241.15",
+            "country": "FR"
+        },
+        {
+            "date": "2020-06-24",
+            "time": "05:53:44",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "13.76.94.26",
+            "country": "US"
+        }
+    ]
+}
