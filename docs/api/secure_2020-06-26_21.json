@@ -1,0 +1,34 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-06-26",
+            "time": "21:25:44",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "wlei",
+            "ip": "87.27.141.42",
+            "country": "IT"
+        },
+        {
+            "date": "2020-06-26",
+            "time": "21:28:23",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "inma",
+            "ip": "46.254.94.217",
+            "country": "RU"
+        },
+        {
+            "date": "2020-06-26",
+            "time": "21:32:04",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "139.155.86.214",
+            "country": "CN"
+        }
+    ]
+}
