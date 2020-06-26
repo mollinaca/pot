@@ -1,0 +1,62 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-06-27",
+            "time": "05:33:30",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "gerrit",
+            "ip": "218.78.81.207",
+            "country": "CN"
+        },
+        {
+            "date": "2020-06-27",
+            "time": "05:48:22",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "gci",
+            "ip": "51.137.134.191",
+            "country": "GB"
+        },
+        {
+            "date": "2020-06-27",
+            "time": "05:49:49",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "guest1",
+            "ip": "122.51.248.76",
+            "country": "CN"
+        },
+        {
+            "date": "2020-06-27",
+            "time": "05:50:13",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "87.251.74.48",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-27",
+            "time": "05:50:34",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "87.251.74.48",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-27",
+            "time": "05:59:32",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.102",
+            "country": "NL"
+        }
+    ]
+}
