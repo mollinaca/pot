@@ -1,0 +1,43 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-06-27",
+            "time": "14:07:51",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.100",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-27",
+            "time": "14:15:20",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "oficina",
+            "ip": "116.196.93.81",
+            "country": "CN"
+        },
+        {
+            "date": "2020-06-27",
+            "time": "14:30:52",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "71.6.232.6",
+            "country": "US"
+        },
+        {
+            "date": "2020-06-27",
+            "time": "14:31:20",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "sftp",
+            "ip": "219.76.200.27",
+            "country": "HK"
+        }
+    ]
+}
