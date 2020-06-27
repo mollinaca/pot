@@ -1,0 +1,73 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-06-27",
+            "time": "13:08:41",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "50.100.113.207",
+            "country": null
+        },
+        {
+            "date": "2020-06-27",
+            "time": "13:08:52",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ftptest",
+            "ip": "181.10.199.162",
+            "country": "AR"
+        },
+        {
+            "date": "2020-06-27",
+            "time": "13:17:18",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "106.13.224.130",
+            "country": "CN"
+        },
+        {
+            "date": "2020-06-27",
+            "time": "13:19:19",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "brett",
+            "ip": "212.64.2.142",
+            "country": "CN"
+        },
+        {
+            "date": "2020-06-27",
+            "time": "13:55:00",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "support",
+            "ip": "122.51.37.26",
+            "country": "CN"
+        },
+        {
+            "date": "2020-06-27",
+            "time": "13:57:36",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "195.54.160.183",
+            "country": "RU"
+        },
+        {
+            "date": "2020-06-27",
+            "time": "13:59:21",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "sha",
+            "ip": "132.232.3.234",
+            "country": "CN"
+        }
+    ]
+}
