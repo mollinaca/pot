@@ -1,0 +1,72 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-06-30",
+            "time": "21:22:00",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.103",
+            "country": "NL"
+        },
+        {
+            "date": "2020-06-30",
+            "time": "21:24:02",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "209.141.40.12",
+            "country": "US"
+        },
+        {
+            "date": "2020-06-30",
+            "time": "21:32:27",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "fake",
+            "ip": "198.46.196.149",
+            "country": "US"
+        },
+        {
+            "date": "2020-06-30",
+            "time": "21:32:28",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "198.46.196.149",
+            "country": "US"
+        },
+        {
+            "date": "2020-06-30",
+            "time": "21:39:06",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "jugo",
+            "ip": "175.24.103.72",
+            "country": "CN"
+        },
+        {
+            "date": "2020-06-30",
+            "time": "21:46:15",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "teacher",
+            "ip": "111.229.188.72",
+            "country": "CN"
+        },
+        {
+            "date": "2020-06-30",
+            "time": "21:50:14",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.102",
+            "country": "NL"
+        }
+    ]
+}
