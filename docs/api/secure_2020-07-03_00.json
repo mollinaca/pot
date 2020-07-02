@@ -1,0 +1,83 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-07-03",
+            "time": "00:08:14",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "103.142.57.138",
+            "country": "ID"
+        },
+        {
+            "date": "2020-07-03",
+            "time": "00:08:18",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "666666",
+            "ip": "103.142.57.138",
+            "country": "ID"
+        },
+        {
+            "date": "2020-07-03",
+            "time": "00:08:18",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "103.142.57.138",
+            "country": "ID"
+        },
+        {
+            "date": "2020-07-03",
+            "time": "00:45:10",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "jacky",
+            "ip": "152.89.244.90",
+            "country": "DE"
+        },
+        {
+            "date": "2020-07-03",
+            "time": "00:53:10",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "charlotte",
+            "ip": "139.199.119.76",
+            "country": "CN"
+        },
+        {
+            "date": "2020-07-03",
+            "time": "00:55:37",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "afr",
+            "ip": "103.248.33.51",
+            "country": "IN"
+        },
+        {
+            "date": "2020-07-03",
+            "time": "00:56:43",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "lw",
+            "ip": "114.67.77.148",
+            "country": "CN"
+        },
+        {
+            "date": "2020-07-03",
+            "time": "00:57:16",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "et",
+            "ip": "103.242.168.14",
+            "country": "CN"
+        }
+    ]
+}
