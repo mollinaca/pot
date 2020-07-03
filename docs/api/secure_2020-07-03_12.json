@@ -1,0 +1,80 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-07-03",
+            "time": "12:06:19",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "113.161.162.199",
+            "country": "VN"
+        },
+        {
+            "date": "2020-07-03",
+            "time": "12:06:22",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin2",
+            "ip": "113.161.162.199",
+            "country": "VN"
+        },
+        {
+            "date": "2020-07-03",
+            "time": "12:06:23",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "113.161.162.199",
+            "country": "VN"
+        },
+        {
+            "date": "2020-07-03",
+            "time": "12:45:00",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "java",
+            "ip": "51.38.57.78",
+            "country": "FR"
+        },
+        {
+            "date": "2020-07-03",
+            "time": "12:57:55",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "139.162.122.110",
+            "country": "US"
+        },
+        {
+            "date": "2020-07-03",
+            "time": "12:57:55",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": " ",
+            "ip": "139.162.122.110",
+            "country": "US"
+        },
+        {
+            "date": "2020-07-03",
+            "time": "12:57:55",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "139.162.122.110",
+            "country": "US"
+        },
+        {
+            "date": "2020-07-03",
+            "time": "12:58:31",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "209.141.40.151",
+            "country": "US"
+        }
+    ]
+}
