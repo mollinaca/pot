@@ -1,0 +1,62 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-07-03",
+            "time": "18:00:41",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "192.241.223.158",
+            "country": "US"
+        },
+        {
+            "date": "2020-07-03",
+            "time": "18:17:44",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.100",
+            "country": "NL"
+        },
+        {
+            "date": "2020-07-03",
+            "time": "18:17:59",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.100",
+            "country": "NL"
+        },
+        {
+            "date": "2020-07-03",
+            "time": "18:31:36",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ceshi",
+            "ip": "51.38.57.78",
+            "country": "FR"
+        },
+        {
+            "date": "2020-07-03",
+            "time": "18:57:14",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "es",
+            "ip": "175.24.117.226",
+            "country": "CN"
+        },
+        {
+            "date": "2020-07-03",
+            "time": "18:58:01",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "sftptest",
+            "ip": "106.53.207.227",
+            "country": "CN"
+        }
+    ]
+}
