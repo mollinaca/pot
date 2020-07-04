@@ -1,0 +1,64 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-07-04",
+            "time": "08:08:34",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "92.19.248.152",
+            "country": "GB"
+        },
+        {
+            "date": "2020-07-04",
+            "time": "08:12:31",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "oracle",
+            "ip": "46.101.249.232",
+            "country": "DE"
+        },
+        {
+            "date": "2020-07-04",
+            "time": "08:18:23",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "mysql",
+            "ip": "157.245.98.160",
+            "country": "US"
+        },
+        {
+            "date": "2020-07-04",
+            "time": "08:23:05",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "colin",
+            "ip": "103.23.102.3",
+            "country": "ID"
+        },
+        {
+            "date": "2020-07-04",
+            "time": "08:54:15",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "hxlong",
+            "ip": "139.59.129.45",
+            "country": "DE"
+        },
+        {
+            "date": "2020-07-04",
+            "time": "08:57:14",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "164.68.112.178",
+            "country": "DE"
+        }
+    ]
+}
