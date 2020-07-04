@@ -1,0 +1,54 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-07-04",
+            "time": "09:02:12",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.103",
+            "country": "NL"
+        },
+        {
+            "date": "2020-07-04",
+            "time": "09:45:55",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "54.223.114.32",
+            "country": "CN"
+        },
+        {
+            "date": "2020-07-04",
+            "time": "09:47:19",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "redmine",
+            "ip": "106.12.176.53",
+            "country": "CN"
+        },
+        {
+            "date": "2020-07-04",
+            "time": "09:49:08",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "guest",
+            "ip": "200.6.251.98",
+            "country": "GT"
+        },
+        {
+            "date": "2020-07-04",
+            "time": "09:57:43",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "username",
+            "ip": "116.196.91.95",
+            "country": "CN"
+        }
+    ]
+}
