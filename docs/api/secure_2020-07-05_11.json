@@ -1,0 +1,33 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-07-05",
+            "time": "11:00:07",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.101",
+            "country": "NL"
+        },
+        {
+            "date": "2020-07-05",
+            "time": "11:43:10",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.164",
+            "country": "NL"
+        },
+        {
+            "date": "2020-07-05",
+            "time": "11:57:42",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "hfh",
+            "ip": "138.197.151.129",
+            "country": "US"
+        }
+    ]
+}
