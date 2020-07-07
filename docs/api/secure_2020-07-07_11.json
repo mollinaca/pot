@@ -1,0 +1,83 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-07-07",
+            "time": "11:29:22",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "www-data",
+            "ip": "115.78.4.219",
+            "country": "VN"
+        },
+        {
+            "date": "2020-07-07",
+            "time": "11:31:23",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "27.64.39.124",
+            "country": "VN"
+        },
+        {
+            "date": "2020-07-07",
+            "time": "11:31:26",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "user1",
+            "ip": "27.64.39.124",
+            "country": "VN"
+        },
+        {
+            "date": "2020-07-07",
+            "time": "11:31:27",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "27.64.39.124",
+            "country": "VN"
+        },
+        {
+            "date": "2020-07-07",
+            "time": "11:31:42",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "lilin",
+            "ip": "96.9.70.234",
+            "country": "KH"
+        },
+        {
+            "date": "2020-07-07",
+            "time": "11:33:31",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "fake",
+            "ip": "198.23.236.112",
+            "country": "US"
+        },
+        {
+            "date": "2020-07-07",
+            "time": "11:37:34",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "andrey",
+            "ip": "130.180.66.97",
+            "country": "DE"
+        },
+        {
+            "date": "2020-07-07",
+            "time": "11:43:20",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "joomla",
+            "ip": "121.201.74.154",
+            "country": "CN"
+        }
+    ]
+}
