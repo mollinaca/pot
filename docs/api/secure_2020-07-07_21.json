@@ -1,0 +1,71 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-07-07",
+            "time": "21:02:04",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "rstudio-server",
+            "ip": "51.38.57.78",
+            "country": "FR"
+        },
+        {
+            "date": "2020-07-07",
+            "time": "21:19:55",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "87.251.74.30",
+            "country": "NL"
+        },
+        {
+            "date": "2020-07-07",
+            "time": "21:19:56",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "user",
+            "ip": "87.251.74.30",
+            "country": "NL"
+        },
+        {
+            "date": "2020-07-07",
+            "time": "21:19:57",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "87.251.74.30",
+            "country": "NL"
+        },
+        {
+            "date": "2020-07-07",
+            "time": "21:19:57",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "87.251.74.30",
+            "country": "NL"
+        },
+        {
+            "date": "2020-07-07",
+            "time": "21:19:57",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "87.251.74.30",
+            "country": "NL"
+        },
+        {
+            "date": "2020-07-07",
+            "time": "21:19:58",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "87.251.74.30",
+            "country": "NL"
+        }
+    ]
+}
