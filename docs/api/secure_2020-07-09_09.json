@@ -1,0 +1,81 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-07-09",
+            "time": "09:00:14",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "dulina",
+            "ip": "51.79.54.234",
+            "country": "CA"
+        },
+        {
+            "date": "2020-07-09",
+            "time": "09:03:02",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "zookeeper",
+            "ip": "176.37.60.16",
+            "country": "UA"
+        },
+        {
+            "date": "2020-07-09",
+            "time": "09:05:40",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "209.17.96.178",
+            "country": "US"
+        },
+        {
+            "date": "2020-07-09",
+            "time": "09:30:42",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "aaa",
+            "ip": "183.82.121.34",
+            "country": "IN"
+        },
+        {
+            "date": "2020-07-09",
+            "time": "09:35:26",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "164.68.112.178",
+            "country": "DE"
+        },
+        {
+            "date": "2020-07-09",
+            "time": "09:42:56",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "openvpn",
+            "ip": "195.54.160.180",
+            "country": "RU"
+        },
+        {
+            "date": "2020-07-09",
+            "time": "09:50:26",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "83.97.20.29",
+            "country": "RO"
+        },
+        {
+            "date": "2020-07-09",
+            "time": "09:53:14",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "165.73.60.104",
+            "country": "ZA"
+        }
+    ]
+}
