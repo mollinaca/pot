@@ -1,0 +1,71 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-07-09",
+            "time": "21:03:14",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "cr",
+            "ip": "129.204.205.125",
+            "country": "CN"
+        },
+        {
+            "date": "2020-07-09",
+            "time": "21:19:25",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "webftp",
+            "ip": "148.229.3.242",
+            "country": "MX"
+        },
+        {
+            "date": "2020-07-09",
+            "time": "21:38:06",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "124.156.55.172",
+            "country": "SG"
+        },
+        {
+            "date": "2020-07-09",
+            "time": "21:43:04",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "teamspeak3",
+            "ip": "104.154.147.52",
+            "country": "US"
+        },
+        {
+            "date": "2020-07-09",
+            "time": "21:48:00",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.165",
+            "country": "NL"
+        },
+        {
+            "date": "2020-07-09",
+            "time": "21:48:10",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.165",
+            "country": "NL"
+        },
+        {
+            "date": "2020-07-09",
+            "time": "21:48:10",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.165",
+            "country": "NL"
+        }
+    ]
+}
