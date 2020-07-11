@@ -1,0 +1,63 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-07-12",
+            "time": "00:06:37",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "francis",
+            "ip": "195.54.160.183",
+            "country": "RU"
+        },
+        {
+            "date": "2020-07-12",
+            "time": "00:20:10",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "automl",
+            "ip": "158.69.194.115",
+            "country": "CA"
+        },
+        {
+            "date": "2020-07-12",
+            "time": "00:23:01",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "fish",
+            "ip": "43.225.158.114",
+            "country": "HK"
+        },
+        {
+            "date": "2020-07-12",
+            "time": "00:27:32",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ot",
+            "ip": "157.230.244.147",
+            "country": "US"
+        },
+        {
+            "date": "2020-07-12",
+            "time": "00:59:24",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "208.100.26.231",
+            "country": "US"
+        },
+        {
+            "date": "2020-07-12",
+            "time": "00:59:28",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "208.100.26.231",
+            "country": "US"
+        }
+    ]
+}
