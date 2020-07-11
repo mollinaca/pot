@@ -1,0 +1,71 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-07-11",
+            "time": "15:07:07",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "nagios",
+            "ip": "190.98.231.87",
+            "country": "CL"
+        },
+        {
+            "date": "2020-07-11",
+            "time": "15:16:54",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "71.6.232.6",
+            "country": "US"
+        },
+        {
+            "date": "2020-07-11",
+            "time": "15:28:22",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "bitrix",
+            "ip": "51.38.57.78",
+            "country": "FR"
+        },
+        {
+            "date": "2020-07-11",
+            "time": "15:51:21",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "106.212.179.147",
+            "country": "IN"
+        },
+        {
+            "date": "2020-07-11",
+            "time": "15:51:25",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "106.212.179.147",
+            "country": "IN"
+        },
+        {
+            "date": "2020-07-11",
+            "time": "15:51:25",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "106.212.179.147",
+            "country": "IN"
+        },
+        {
+            "date": "2020-07-11",
+            "time": "15:56:56",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "162.243.128.204",
+            "country": "US"
+        }
+    ]
+}
