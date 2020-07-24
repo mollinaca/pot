@@ -1,0 +1,43 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-07-24",
+            "time": "19:10:30",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.102",
+            "country": "NL"
+        },
+        {
+            "date": "2020-07-24",
+            "time": "19:50:59",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "lxy",
+            "ip": "88.132.109.164",
+            "country": "HU"
+        },
+        {
+            "date": "2020-07-24",
+            "time": "19:55:30",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.101",
+            "country": "NL"
+        },
+        {
+            "date": "2020-07-24",
+            "time": "19:58:50",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "unturned",
+            "ip": "165.22.65.134",
+            "country": "US"
+        }
+    ]
+}
