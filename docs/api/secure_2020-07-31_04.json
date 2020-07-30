@@ -1,0 +1,43 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-07-31",
+            "time": "04:02:02",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "sunyl",
+            "ip": "27.154.242.142",
+            "country": "CN"
+        },
+        {
+            "date": "2020-07-31",
+            "time": "04:43:14",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "209.212.222.68",
+            "country": "MV"
+        },
+        {
+            "date": "2020-07-31",
+            "time": "04:43:19",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "administrator",
+            "ip": "209.212.222.68",
+            "country": "MV"
+        },
+        {
+            "date": "2020-07-31",
+            "time": "04:43:20",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "209.212.222.68",
+            "country": "MV"
+        }
+    ]
+}
