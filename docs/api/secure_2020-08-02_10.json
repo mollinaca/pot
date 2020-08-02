@@ -1,0 +1,33 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-08-02",
+            "time": "10:01:07",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": " ",
+            "ip": "65.49.20.68",
+            "country": "US"
+        },
+        {
+            "date": "2020-08-02",
+            "time": "10:01:12",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "65.49.20.68",
+            "country": "US"
+        },
+        {
+            "date": "2020-08-02",
+            "time": "10:31:16",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "209.17.97.58",
+            "country": "US"
+        }
+    ]
+}
