@@ -1,0 +1,62 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-08-06",
+            "time": "00:02:32",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "AB123321",
+            "ip": "202.131.69.18",
+            "country": "HK"
+        },
+        {
+            "date": "2020-08-06",
+            "time": "00:12:55",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "93.76.71.130",
+            "country": "UA"
+        },
+        {
+            "date": "2020-08-06",
+            "time": "00:23:47",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "185.37.212.6",
+            "country": "ES"
+        },
+        {
+            "date": "2020-08-06",
+            "time": "00:36:45",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.253",
+            "country": "NL"
+        },
+        {
+            "date": "2020-08-06",
+            "time": "00:41:48",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "developer",
+            "ip": "51.38.57.78",
+            "country": "FR"
+        },
+        {
+            "date": "2020-08-06",
+            "time": "00:45:49",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ubuntu",
+            "ip": "191.232.242.173",
+            "country": "BR"
+        }
+    ]
+}
