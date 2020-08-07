@@ -1,0 +1,52 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-08-07",
+            "time": "08:02:48",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "abcs",
+            "ip": "106.54.194.189",
+            "country": "CN"
+        },
+        {
+            "date": "2020-08-07",
+            "time": "08:36:49",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "abdou",
+            "ip": "106.13.110.74",
+            "country": "CN"
+        },
+        {
+            "date": "2020-08-07",
+            "time": "08:38:47",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "164.68.112.178",
+            "country": "DE"
+        },
+        {
+            "date": "2020-08-07",
+            "time": "08:41:51",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.103",
+            "country": "NL"
+        },
+        {
+            "date": "2020-08-07",
+            "time": "08:41:53",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.103",
+            "country": "NL"
+        }
+    ]
+}
