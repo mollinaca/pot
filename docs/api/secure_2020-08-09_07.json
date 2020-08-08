@@ -1,0 +1,63 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-08-09",
+            "time": "07:00:30",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.102",
+            "country": "NL"
+        },
+        {
+            "date": "2020-08-09",
+            "time": "07:21:45",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "escaner",
+            "ip": "123.206.226.149",
+            "country": "CN"
+        },
+        {
+            "date": "2020-08-09",
+            "time": "07:38:58",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "guest",
+            "ip": "51.38.57.78",
+            "country": "FR"
+        },
+        {
+            "date": "2020-08-09",
+            "time": "07:43:46",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "adir",
+            "ip": "49.235.83.136",
+            "country": "CN"
+        },
+        {
+            "date": "2020-08-09",
+            "time": "07:53:06",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "164.68.112.178",
+            "country": "DE"
+        },
+        {
+            "date": "2020-08-09",
+            "time": "07:56:12",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "2382",
+            "ip": "177.33.31.96",
+            "country": "BR"
+        }
+    ]
+}
