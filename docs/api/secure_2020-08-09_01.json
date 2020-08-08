@@ -1,0 +1,53 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-08-09",
+            "time": "01:02:09",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ubuntu",
+            "ip": "191.232.242.173",
+            "country": "BR"
+        },
+        {
+            "date": "2020-08-09",
+            "time": "01:02:36",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "71.6.232.6",
+            "country": "US"
+        },
+        {
+            "date": "2020-08-09",
+            "time": "01:16:55",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "104.211.213.59",
+            "country": "US"
+        },
+        {
+            "date": "2020-08-09",
+            "time": "01:32:18",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "abacab",
+            "ip": "202.131.69.18",
+            "country": "HK"
+        },
+        {
+            "date": "2020-08-09",
+            "time": "01:53:08",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "fake",
+            "ip": "194.87.139.72",
+            "country": "DE"
+        }
+    ]
+}
