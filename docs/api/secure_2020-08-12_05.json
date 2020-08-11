@@ -1,0 +1,82 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-08-12",
+            "time": "05:11:42",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "Dup",
+            "ip": "187.63.135.162",
+            "country": "BR"
+        },
+        {
+            "date": "2020-08-12",
+            "time": "05:11:53",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "187.63.135.162",
+            "country": "BR"
+        },
+        {
+            "date": "2020-08-12",
+            "time": "05:17:50",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.100",
+            "country": "NL"
+        },
+        {
+            "date": "2020-08-12",
+            "time": "05:27:35",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "83.97.20.29",
+            "country": "RO"
+        },
+        {
+            "date": "2020-08-12",
+            "time": "05:59:29",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "0",
+            "ip": "185.153.196.230",
+            "country": "MD"
+        },
+        {
+            "date": "2020-08-12",
+            "time": "05:59:38",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "22",
+            "ip": "185.153.196.230",
+            "country": "MD"
+        },
+        {
+            "date": "2020-08-12",
+            "time": "05:59:49",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "101",
+            "ip": "185.153.196.230",
+            "country": "MD"
+        },
+        {
+            "date": "2020-08-12",
+            "time": "05:59:58",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "123",
+            "ip": "185.153.196.230",
+            "country": "MD"
+        }
+    ]
+}
