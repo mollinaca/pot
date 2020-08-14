@@ -1,0 +1,24 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-08-14",
+            "time": "15:00:30",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "122.51.113.111",
+            "country": "CN"
+        },
+        {
+            "date": "2020-08-14",
+            "time": "15:12:19",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "aaguera",
+            "ip": "148.229.3.242",
+            "country": "MX"
+        }
+    ]
+}
