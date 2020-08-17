@@ -1,0 +1,110 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-08-18",
+            "time": "01:02:24",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "205.185.125.216",
+            "country": "US"
+        },
+        {
+            "date": "2020-08-18",
+            "time": "01:02:25",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "205.185.125.216",
+            "country": "US"
+        },
+        {
+            "date": "2020-08-18",
+            "time": "01:02:28",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "205.185.125.216",
+            "country": "US"
+        },
+        {
+            "date": "2020-08-18",
+            "time": "01:02:29",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "205.185.125.216",
+            "country": "US"
+        },
+        {
+            "date": "2020-08-18",
+            "time": "01:30:41",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.245",
+            "country": "NL"
+        },
+        {
+            "date": "2020-08-18",
+            "time": "01:30:46",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.245",
+            "country": "NL"
+        },
+        {
+            "date": "2020-08-18",
+            "time": "01:30:46",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.245",
+            "country": "NL"
+        },
+        {
+            "date": "2020-08-18",
+            "time": "01:41:49",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "greta",
+            "ip": "191.52.255.34",
+            "country": "BR"
+        },
+        {
+            "date": "2020-08-18",
+            "time": "01:49:32",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "g",
+            "ip": "167.99.67.209",
+            "country": "US"
+        },
+        {
+            "date": "2020-08-18",
+            "time": "01:51:08",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "kubernetes",
+            "ip": "185.164.138.21",
+            "country": "GB"
+        },
+        {
+            "date": "2020-08-18",
+            "time": "01:58:43",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "gitolite",
+            "ip": "134.17.94.55",
+            "country": "BY"
+        }
+    ]
+}
