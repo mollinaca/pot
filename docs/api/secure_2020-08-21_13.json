@@ -1,0 +1,72 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-08-21",
+            "time": "13:08:12",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "75.172.23.210",
+            "country": "US"
+        },
+        {
+            "date": "2020-08-21",
+            "time": "13:09:24",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "192.241.236.64",
+            "country": "US"
+        },
+        {
+            "date": "2020-08-21",
+            "time": "13:23:56",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "sat",
+            "ip": "176.37.60.16",
+            "country": "UA"
+        },
+        {
+            "date": "2020-08-21",
+            "time": "13:30:56",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "174.29.36.247",
+            "country": "US"
+        },
+        {
+            "date": "2020-08-21",
+            "time": "13:39:21",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "nagios",
+            "ip": "218.21.218.10",
+            "country": "CN"
+        },
+        {
+            "date": "2020-08-21",
+            "time": "13:40:54",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "maintain",
+            "ip": "174.138.42.143",
+            "country": "US"
+        },
+        {
+            "date": "2020-08-21",
+            "time": "13:55:03",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "www",
+            "ip": "180.250.108.133",
+            "country": "ID"
+        }
+    ]
+}
