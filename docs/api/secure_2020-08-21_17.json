@@ -1,0 +1,63 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-08-21",
+            "time": "17:48:24",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "deploy",
+            "ip": "167.99.155.36",
+            "country": "US"
+        },
+        {
+            "date": "2020-08-21",
+            "time": "17:52:16",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "newuser",
+            "ip": "209.65.68.190",
+            "country": "US"
+        },
+        {
+            "date": "2020-08-21",
+            "time": "17:52:26",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "testuser",
+            "ip": "202.47.116.107",
+            "country": "IN"
+        },
+        {
+            "date": "2020-08-21",
+            "time": "17:59:19",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "epv",
+            "ip": "14.17.114.65",
+            "country": "CN"
+        },
+        {
+            "date": "2020-08-21",
+            "time": "17:59:40",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.101",
+            "country": "NL"
+        },
+        {
+            "date": "2020-08-21",
+            "time": "17:59:54",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.101",
+            "country": "NL"
+        }
+    ]
+}
