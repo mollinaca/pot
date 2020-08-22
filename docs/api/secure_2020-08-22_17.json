@@ -1,0 +1,54 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-08-22",
+            "time": "17:15:30",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "test08",
+            "ip": "148.229.3.242",
+            "country": "MX"
+        },
+        {
+            "date": "2020-08-22",
+            "time": "17:30:23",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "celery",
+            "ip": "106.52.64.125",
+            "country": "CN"
+        },
+        {
+            "date": "2020-08-22",
+            "time": "17:37:43",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "49.234.70.189",
+            "country": "CN"
+        },
+        {
+            "date": "2020-08-22",
+            "time": "17:47:45",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "vncuser",
+            "ip": "36.89.157.197",
+            "country": "ID"
+        },
+        {
+            "date": "2020-08-22",
+            "time": "17:57:28",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "delta",
+            "ip": "106.52.96.247",
+            "country": "CN"
+        }
+    ]
+}
