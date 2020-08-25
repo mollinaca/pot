@@ -1,0 +1,61 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-08-25",
+            "time": "20:15:29",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.100",
+            "country": "NL"
+        },
+        {
+            "date": "2020-08-25",
+            "time": "20:15:42",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.100",
+            "country": "NL"
+        },
+        {
+            "date": "2020-08-25",
+            "time": "20:26:24",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "83.97.20.29",
+            "country": "RO"
+        },
+        {
+            "date": "2020-08-25",
+            "time": "20:33:39",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.101",
+            "country": "NL"
+        },
+        {
+            "date": "2020-08-25",
+            "time": "20:39:28",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "mc",
+            "ip": "109.71.237.13",
+            "country": "IT"
+        },
+        {
+            "date": "2020-08-25",
+            "time": "20:51:46",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "daniel",
+            "ip": "140.207.96.235",
+            "country": "CN"
+        }
+    ]
+}
