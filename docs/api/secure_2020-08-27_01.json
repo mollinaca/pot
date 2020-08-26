@@ -1,0 +1,55 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-08-27",
+            "time": "01:01:02",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ftpteste",
+            "ip": "202.131.69.18",
+            "country": "HK"
+        },
+        {
+            "date": "2020-08-27",
+            "time": "01:05:56",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "postgres",
+            "ip": "91.144.173.197",
+            "country": "RU"
+        },
+        {
+            "date": "2020-08-27",
+            "time": "01:08:23",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "kms",
+            "ip": "216.104.200.22",
+            "country": "UG"
+        },
+        {
+            "date": "2020-08-27",
+            "time": "01:27:21",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "test123",
+            "ip": "148.229.3.242",
+            "country": "MX"
+        },
+        {
+            "date": "2020-08-27",
+            "time": "01:40:43",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "was",
+            "ip": "158.69.0.38",
+            "country": "CA"
+        }
+    ]
+}
