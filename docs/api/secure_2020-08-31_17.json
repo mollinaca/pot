@@ -1,0 +1,45 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-08-31",
+            "time": "17:00:01",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "terry",
+            "ip": "200.165.167.10",
+            "country": "BR"
+        },
+        {
+            "date": "2020-08-31",
+            "time": "17:13:23",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "user3",
+            "ip": "179.97.55.94",
+            "country": "BR"
+        },
+        {
+            "date": "2020-08-31",
+            "time": "17:14:16",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "debian",
+            "ip": "177.43.35.6",
+            "country": "BR"
+        },
+        {
+            "date": "2020-08-31",
+            "time": "17:18:50",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "test4",
+            "ip": "148.229.3.242",
+            "country": "MX"
+        }
+    ]
+}
