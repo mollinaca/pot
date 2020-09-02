@@ -1,0 +1,73 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-02",
+            "time": "18:37:40",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "mena",
+            "ip": "54.36.180.236",
+            "country": "FR"
+        },
+        {
+            "date": "2020-09-02",
+            "time": "18:40:00",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "michael",
+            "ip": "176.31.162.82",
+            "country": "FR"
+        },
+        {
+            "date": "2020-09-02",
+            "time": "18:42:56",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "198.98.49.181",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-02",
+            "time": "18:43:55",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "giuseppe",
+            "ip": "51.75.19.175",
+            "country": "FR"
+        },
+        {
+            "date": "2020-09-02",
+            "time": "18:45:47",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "netman",
+            "ip": "223.16.97.221",
+            "country": "HK"
+        },
+        {
+            "date": "2020-09-02",
+            "time": "18:45:47",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "223.16.97.221",
+            "country": "HK"
+        },
+        {
+            "date": "2020-09-02",
+            "time": "18:59:07",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "fedora",
+            "ip": "83.229.149.191",
+            "country": "RU"
+        }
+    ]
+}
