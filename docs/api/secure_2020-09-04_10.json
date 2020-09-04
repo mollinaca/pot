@@ -1,0 +1,73 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-04",
+            "time": "10:01:29",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "49.234.70.189",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-04",
+            "time": "10:18:09",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "webadm",
+            "ip": "159.89.49.238",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-04",
+            "time": "10:36:03",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "hscroot",
+            "ip": "74.208.160.87",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-04",
+            "time": "10:41:31",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin6",
+            "ip": "106.13.110.74",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-04",
+            "time": "10:51:40",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "testftp",
+            "ip": "148.229.3.242",
+            "country": "MX"
+        },
+        {
+            "date": "2020-09-04",
+            "time": "10:56:28",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "maxgauge",
+            "ip": "183.82.121.34",
+            "country": "IN"
+        },
+        {
+            "date": "2020-09-04",
+            "time": "10:59:56",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.101",
+            "country": "NL"
+        }
+    ]
+}
