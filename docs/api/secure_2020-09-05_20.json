@@ -1,0 +1,72 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-05",
+            "time": "20:02:12",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.103",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-05",
+            "time": "20:02:18",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.103",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-05",
+            "time": "20:12:01",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "austin",
+            "ip": "106.54.194.189",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-05",
+            "time": "20:12:51",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "test",
+            "ip": "128.199.124.159",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-05",
+            "time": "20:12:53",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "chenxianjie",
+            "ip": "123.206.226.149",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-05",
+            "time": "20:47:37",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "192.241.236.27",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-05",
+            "time": "20:53:13",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "51.75.23.62",
+            "country": "FR"
+        }
+    ]
+}
