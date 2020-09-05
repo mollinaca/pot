@@ -1,0 +1,44 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-05",
+            "time": "09:16:12",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.100",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-05",
+            "time": "09:23:19",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "testora",
+            "ip": "148.229.3.242",
+            "country": "MX"
+        },
+        {
+            "date": "2020-09-05",
+            "time": "09:38:16",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "oracle",
+            "ip": "58.213.198.74",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-05",
+            "time": "09:46:56",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "markus",
+            "ip": "124.89.2.202",
+            "country": "CN"
+        }
+    ]
+}
