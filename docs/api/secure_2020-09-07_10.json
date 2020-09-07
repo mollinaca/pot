@@ -1,0 +1,64 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-07",
+            "time": "10:05:28",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "gitlab-prometheus",
+            "ip": "202.131.69.18",
+            "country": "HK"
+        },
+        {
+            "date": "2020-09-07",
+            "time": "10:19:55",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "sal",
+            "ip": "51.77.220.183",
+            "country": "FR"
+        },
+        {
+            "date": "2020-09-07",
+            "time": "10:22:53",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ubuntu",
+            "ip": "106.13.231.103",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-07",
+            "time": "10:38:09",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": " ",
+            "ip": "65.49.20.69",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-07",
+            "time": "10:38:13",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "65.49.20.69",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-07",
+            "time": "10:55:19",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "memcached",
+            "ip": "106.54.219.237",
+            "country": "CN"
+        }
+    ]
+}
