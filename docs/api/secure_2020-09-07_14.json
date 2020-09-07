@@ -1,0 +1,62 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-07",
+            "time": "14:07:33",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.100",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-07",
+            "time": "14:10:22",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "129.144.9.93",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-07",
+            "time": "14:12:27",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "newsletter",
+            "ip": "160.153.234.236",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-07",
+            "time": "14:24:21",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "178.124.185.203",
+            "country": "BY"
+        },
+        {
+            "date": "2020-09-07",
+            "time": "14:24:51",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.103",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-07",
+            "time": "14:33:28",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "constantina",
+            "ip": "106.13.79.109",
+            "country": "CN"
+        }
+    ]
+}
