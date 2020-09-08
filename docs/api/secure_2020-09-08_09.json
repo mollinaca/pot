@@ -1,0 +1,62 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-08",
+            "time": "09:01:32",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ernesto",
+            "ip": "49.232.175.244",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-08",
+            "time": "09:05:05",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "oracle",
+            "ip": "134.175.150.132",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-08",
+            "time": "09:09:06",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "couchdb",
+            "ip": "104.248.237.70",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-08",
+            "time": "09:25:31",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.253",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-08",
+            "time": "09:47:33",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.251",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-08",
+            "time": "09:47:40",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.251",
+            "country": "NL"
+        }
+    ]
+}
