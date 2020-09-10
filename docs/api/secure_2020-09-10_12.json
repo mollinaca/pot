@@ -1,0 +1,90 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-10",
+            "time": "12:05:51",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.253",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-10",
+            "time": "12:16:57",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.251",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-10",
+            "time": "12:17:04",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.251",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-10",
+            "time": "12:17:46",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "greta",
+            "ip": "117.27.88.61",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-10",
+            "time": "12:24:42",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "oracle",
+            "ip": "178.62.104.58",
+            "country": "GB"
+        },
+        {
+            "date": "2020-09-10",
+            "time": "12:27:22",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "chef",
+            "ip": "167.71.177.236",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-10",
+            "time": "12:33:56",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "service",
+            "ip": "68.183.66.107",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-10",
+            "time": "12:34:08",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "209.17.96.114",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-10",
+            "time": "12:43:53",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "74.120.14.49",
+            "country": "US"
+        }
+    ]
+}
