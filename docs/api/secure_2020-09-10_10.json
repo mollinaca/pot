@@ -1,0 +1,51 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-10",
+            "time": "10:11:13",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.252",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-10",
+            "time": "10:11:15",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.252",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-10",
+            "time": "10:35:09",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "209.17.96.90",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-10",
+            "time": "10:36:25",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "hexing",
+            "ip": "185.132.1.52",
+            "country": "UA"
+        },
+        {
+            "date": "2020-09-10",
+            "time": "10:44:32",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "172.58.62.135",
+            "country": "US"
+        }
+    ]
+}
