@@ -1,0 +1,62 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-11",
+            "time": "20:07:27",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "106.38.0.3",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-11",
+            "time": "20:07:28",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "106.38.0.3",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-11",
+            "time": "20:14:51",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "debian",
+            "ip": "5.160.243.153",
+            "country": "IR"
+        },
+        {
+            "date": "2020-09-11",
+            "time": "20:17:30",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "test",
+            "ip": "128.199.73.25",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-11",
+            "time": "20:42:09",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "bhl",
+            "ip": "106.54.194.189",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-11",
+            "time": "20:58:55",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "50.47.140.203",
+            "country": "US"
+        }
+    ]
+}
