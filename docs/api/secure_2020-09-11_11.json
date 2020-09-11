@@ -1,0 +1,61 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-11",
+            "time": "11:25:01",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "oracle",
+            "ip": "52.152.254.166",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-11",
+            "time": "11:37:05",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "185.142.239.16",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-11",
+            "time": "11:37:07",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "185.142.239.16",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-11",
+            "time": "11:41:29",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.102",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-11",
+            "time": "11:54:08",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "kwiatek",
+            "ip": "181.40.122.2",
+            "country": "PY"
+        },
+        {
+            "date": "2020-09-11",
+            "time": "11:55:36",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "134.175.249.84",
+            "country": "CN"
+        }
+    ]
+}
