@@ -1,0 +1,63 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-12",
+            "time": "12:03:02",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "139.162.75.112",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-12",
+            "time": "12:18:57",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": " ",
+            "ip": "65.49.20.68",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-12",
+            "time": "12:19:01",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "65.49.20.68",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-12",
+            "time": "12:27:09",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "fake",
+            "ip": "104.168.14.116",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-12",
+            "time": "12:27:09",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "deveops",
+            "ip": "137.74.173.182",
+            "country": "FR"
+        },
+        {
+            "date": "2020-09-12",
+            "time": "12:42:48",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "vcsa",
+            "ip": "106.13.184.139",
+            "country": "CN"
+        }
+    ]
+}
