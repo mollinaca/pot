@@ -1,0 +1,72 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-12",
+            "time": "18:04:25",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "named",
+            "ip": "187.190.40.112",
+            "country": "MX"
+        },
+        {
+            "date": "2020-09-12",
+            "time": "18:10:02",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ansadm",
+            "ip": "123.30.157.239",
+            "country": "VN"
+        },
+        {
+            "date": "2020-09-12",
+            "time": "18:28:47",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ts3",
+            "ip": "139.59.129.59",
+            "country": "DE"
+        },
+        {
+            "date": "2020-09-12",
+            "time": "18:43:18",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "query",
+            "ip": "49.235.83.136",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-12",
+            "time": "18:50:09",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "45.83.65.255",
+            "country": "DE"
+        },
+        {
+            "date": "2020-09-12",
+            "time": "18:56:30",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "79.143.25.181",
+            "country": "RU"
+        },
+        {
+            "date": "2020-09-12",
+            "time": "18:58:02",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "45.95.168.190",
+            "country": "HR"
+        }
+    ]
+}
