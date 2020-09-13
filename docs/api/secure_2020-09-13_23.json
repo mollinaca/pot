@@ -1,0 +1,42 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-13",
+            "time": "23:13:05",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "50.47.140.203",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-13",
+            "time": "23:21:55",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "linuxacademy",
+            "ip": "103.233.5.24",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-13",
+            "time": "23:26:19",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "79.143.25.181",
+            "country": "RU"
+        },
+        {
+            "date": "2020-09-13",
+            "time": "23:28:21",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "5.228.192.20",
+            "country": "RU"
+        }
+    ]
+}
