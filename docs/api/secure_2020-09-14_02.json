@@ -1,0 +1,72 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-14",
+            "time": "02:00:34",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "java",
+            "ip": "51.68.44.13",
+            "country": "FR"
+        },
+        {
+            "date": "2020-09-14",
+            "time": "02:04:43",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "git1",
+            "ip": "140.143.183.71",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-14",
+            "time": "02:11:42",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "50.47.140.203",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-14",
+            "time": "02:12:10",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.103",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-14",
+            "time": "02:29:35",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "198.98.49.181",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-14",
+            "time": "02:44:08",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "zope",
+            "ip": "106.12.173.236",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-14",
+            "time": "02:49:50",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "gsk",
+            "ip": "202.131.69.18",
+            "country": "HK"
+        }
+    ]
+}
