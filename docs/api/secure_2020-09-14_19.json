@@ -1,0 +1,52 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-14",
+            "time": "19:19:57",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "50.47.140.203",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-14",
+            "time": "19:21:46",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "149.200.218.151",
+            "country": "JO"
+        },
+        {
+            "date": "2020-09-14",
+            "time": "19:21:58",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "149.200.218.151",
+            "country": "JO"
+        },
+        {
+            "date": "2020-09-14",
+            "time": "19:30:26",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "discordbot",
+            "ip": "190.12.66.27",
+            "country": "PE"
+        },
+        {
+            "date": "2020-09-14",
+            "time": "19:51:35",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "monitor",
+            "ip": "106.54.219.237",
+            "country": "CN"
+        }
+    ]
+}
