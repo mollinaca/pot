@@ -1,0 +1,70 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-16",
+            "time": "07:08:32",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "redhat",
+            "ip": "49.235.83.136",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-16",
+            "time": "07:39:12",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.101",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-16",
+            "time": "07:39:29",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.101",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-16",
+            "time": "07:50:56",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "192.241.226.121",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-16",
+            "time": "07:54:24",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "78.115.44.218",
+            "country": "FR"
+        },
+        {
+            "date": "2020-09-16",
+            "time": "07:54:29",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admina",
+            "ip": "78.115.44.218",
+            "country": "FR"
+        },
+        {
+            "date": "2020-09-16",
+            "time": "07:54:29",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "78.115.44.218",
+            "country": "FR"
+        }
+    ]
+}
