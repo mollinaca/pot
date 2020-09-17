@@ -1,0 +1,33 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-17",
+            "time": "10:12:29",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "209.17.97.122",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-17",
+            "time": "10:26:06",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "178.33.169.168",
+            "country": "FR"
+        },
+        {
+            "date": "2020-09-17",
+            "time": "10:54:15",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "testik",
+            "ip": "143.137.9.165",
+            "country": "BR"
+        }
+    ]
+}
