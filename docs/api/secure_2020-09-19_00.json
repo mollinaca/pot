@@ -1,0 +1,94 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-19",
+            "time": "00:11:02",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "username",
+            "ip": "198.98.54.28",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-19",
+            "time": "00:21:32",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "system",
+            "ip": "193.169.253.173",
+            "country": "PL"
+        },
+        {
+            "date": "2020-09-19",
+            "time": "00:37:26",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "fake",
+            "ip": "45.95.168.215",
+            "country": "HR"
+        },
+        {
+            "date": "2020-09-19",
+            "time": "00:37:28",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "45.95.168.215",
+            "country": "HR"
+        },
+        {
+            "date": "2020-09-19",
+            "time": "00:37:33",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ubnt",
+            "ip": "45.95.168.215",
+            "country": "HR"
+        },
+        {
+            "date": "2020-09-19",
+            "time": "00:37:35",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "guest",
+            "ip": "45.95.168.215",
+            "country": "HR"
+        },
+        {
+            "date": "2020-09-19",
+            "time": "00:37:37",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "support",
+            "ip": "45.95.168.215",
+            "country": "HR"
+        },
+        {
+            "date": "2020-09-19",
+            "time": "00:51:55",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "221.8.12.143",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-19",
+            "time": "00:53:44",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "confluence2",
+            "ip": "83.229.149.191",
+            "country": "RU"
+        }
+    ]
+}
