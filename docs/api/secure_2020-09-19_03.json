@@ -1,0 +1,63 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-19",
+            "time": "03:01:23",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "192.241.219.22",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-19",
+            "time": "03:26:40",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "103.145.12.194",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-19",
+            "time": "03:46:54",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "git",
+            "ip": "176.106.132.131",
+            "country": "RU"
+        },
+        {
+            "date": "2020-09-19",
+            "time": "03:51:20",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "tsbot",
+            "ip": "103.105.59.80",
+            "country": "HK"
+        },
+        {
+            "date": "2020-09-19",
+            "time": "03:54:47",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ts3",
+            "ip": "123.1.154.200",
+            "country": "HK"
+        },
+        {
+            "date": "2020-09-19",
+            "time": "03:56:07",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "tomcat",
+            "ip": "158.69.210.168",
+            "country": "CA"
+        }
+    ]
+}
