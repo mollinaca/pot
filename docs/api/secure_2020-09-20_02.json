@@ -1,0 +1,92 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-20",
+            "time": "02:05:34",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ubuntu",
+            "ip": "116.132.47.50",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-20",
+            "time": "02:09:27",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "test001",
+            "ip": "90.209.9.28",
+            "country": "GB"
+        },
+        {
+            "date": "2020-09-20",
+            "time": "02:18:36",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "14.192.208.212",
+            "country": "MY"
+        },
+        {
+            "date": "2020-09-20",
+            "time": "02:18:40",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "service",
+            "ip": "14.192.208.212",
+            "country": "MY"
+        },
+        {
+            "date": "2020-09-20",
+            "time": "02:18:40",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "14.192.208.212",
+            "country": "MY"
+        },
+        {
+            "date": "2020-09-20",
+            "time": "02:18:57",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "74.120.14.34",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-20",
+            "time": "02:38:32",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "testftp",
+            "ip": "173.242.122.149",
+            "country": "CA"
+        },
+        {
+            "date": "2020-09-20",
+            "time": "02:39:09",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "administrator",
+            "ip": "171.244.139.236",
+            "country": "VN"
+        },
+        {
+            "date": "2020-09-20",
+            "time": "02:58:07",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "gzuser",
+            "ip": "103.246.240.26",
+            "country": "IN"
+        }
+    ]
+}
