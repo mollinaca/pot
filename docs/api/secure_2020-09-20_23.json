@@ -1,0 +1,54 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-20",
+            "time": "23:23:28",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "80.82.77.240",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-20",
+            "time": "23:37:25",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "root123",
+            "ip": "218.18.161.186",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-20",
+            "time": "23:41:50",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "wwwlogs",
+            "ip": "158.69.0.38",
+            "country": "CA"
+        },
+        {
+            "date": "2020-09-20",
+            "time": "23:47:42",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "administrator",
+            "ip": "220.225.126.55",
+            "country": "IN"
+        },
+        {
+            "date": "2020-09-20",
+            "time": "23:52:31",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "mysftp",
+            "ip": "103.236.115.162",
+            "country": "IN"
+        }
+    ]
+}
