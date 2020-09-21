@@ -1,0 +1,100 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-21",
+            "time": "17:03:16",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "14.141.61.171",
+            "country": "IN"
+        },
+        {
+            "date": "2020-09-21",
+            "time": "17:25:16",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "104.248.61.192",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-21",
+            "time": "17:28:57",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "178.73.215.171",
+            "country": "SE"
+        },
+        {
+            "date": "2020-09-21",
+            "time": "17:29:04",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.103",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-21",
+            "time": "17:29:12",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.103",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-21",
+            "time": "17:31:13",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "101.99.14.51",
+            "country": "VN"
+        },
+        {
+            "date": "2020-09-21",
+            "time": "17:31:16",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "supervisor",
+            "ip": "101.99.14.51",
+            "country": "VN"
+        },
+        {
+            "date": "2020-09-21",
+            "time": "17:31:17",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "101.99.14.51",
+            "country": "VN"
+        },
+        {
+            "date": "2020-09-21",
+            "time": "17:34:53",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ftpuser",
+            "ip": "111.92.61.220",
+            "country": "IN"
+        },
+        {
+            "date": "2020-09-21",
+            "time": "17:47:52",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ftpuser",
+            "ip": "176.122.169.95",
+            "country": "CA"
+        }
+    ]
+}
