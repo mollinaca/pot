@@ -1,0 +1,113 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-22",
+            "time": "02:00:15",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "qadmin",
+            "ip": "91.121.211.34",
+            "country": "FR"
+        },
+        {
+            "date": "2020-09-22",
+            "time": "02:05:56",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admins",
+            "ip": "159.203.73.181",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-22",
+            "time": "02:08:12",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "73.139.35.247",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-22",
+            "time": "02:08:16",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "tech",
+            "ip": "73.139.35.247",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-22",
+            "time": "02:08:16",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "73.139.35.247",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-22",
+            "time": "02:08:50",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "teamspeakserver",
+            "ip": "193.70.91.79",
+            "country": "FR"
+        },
+        {
+            "date": "2020-09-22",
+            "time": "02:11:06",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "postgres",
+            "ip": "91.204.199.73",
+            "country": "UA"
+        },
+        {
+            "date": "2020-09-22",
+            "time": "02:12:18",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "www",
+            "ip": "159.65.41.159",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-22",
+            "time": "02:15:35",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "client",
+            "ip": "87.110.181.30",
+            "country": "LV"
+        },
+        {
+            "date": "2020-09-22",
+            "time": "02:41:04",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "test",
+            "ip": "117.131.29.87",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-22",
+            "time": "02:49:03",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "test",
+            "ip": "106.12.125.241",
+            "country": "CN"
+        }
+    ]
+}
