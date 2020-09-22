@@ -1,0 +1,73 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-23",
+            "time": "04:08:29",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "www",
+            "ip": "158.69.0.38",
+            "country": "CA"
+        },
+        {
+            "date": "2020-09-23",
+            "time": "04:25:14",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "sftptest",
+            "ip": "116.247.108.10",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-23",
+            "time": "04:28:15",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "vsftpd",
+            "ip": "114.67.72.164",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-23",
+            "time": "04:32:21",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "test",
+            "ip": "152.32.166.83",
+            "country": "HK"
+        },
+        {
+            "date": "2020-09-23",
+            "time": "04:36:36",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "user2",
+            "ip": "184.170.212.94",
+            "country": "CA"
+        },
+        {
+            "date": "2020-09-23",
+            "time": "04:38:09",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "138.99.216.112",
+            "country": "BZ"
+        },
+        {
+            "date": "2020-09-23",
+            "time": "04:46:07",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "192.241.239.108",
+            "country": "US"
+        }
+    ]
+}
