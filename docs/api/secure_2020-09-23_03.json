@@ -1,0 +1,61 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-23",
+            "time": "03:04:54",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.253",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-23",
+            "time": "03:35:12",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ernesto",
+            "ip": "91.188.201.247",
+            "country": "RU"
+        },
+        {
+            "date": "2020-09-23",
+            "time": "03:36:40",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.101",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-23",
+            "time": "03:40:56",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.252",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-23",
+            "time": "03:41:06",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.252",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-23",
+            "time": "03:59:34",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "frederick",
+            "ip": "51.104.242.17",
+            "country": "GB"
+        }
+    ]
+}
