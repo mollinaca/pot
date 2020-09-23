@@ -1,0 +1,100 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-23",
+            "time": "18:11:54",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "74.120.14.34",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-23",
+            "time": "18:38:37",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.200",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-23",
+            "time": "18:38:47",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.200",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-23",
+            "time": "18:38:49",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.200",
+            "country": "NL"
+        },
+        {
+            "date": "2020-09-23",
+            "time": "18:47:15",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "fake",
+            "ip": "151.80.241.204",
+            "country": "FR"
+        },
+        {
+            "date": "2020-09-23",
+            "time": "18:47:17",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "151.80.241.204",
+            "country": "FR"
+        },
+        {
+            "date": "2020-09-23",
+            "time": "18:47:21",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ubnt",
+            "ip": "151.80.241.204",
+            "country": "FR"
+        },
+        {
+            "date": "2020-09-23",
+            "time": "18:47:23",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "guest",
+            "ip": "151.80.241.204",
+            "country": "FR"
+        },
+        {
+            "date": "2020-09-23",
+            "time": "18:47:26",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "support",
+            "ip": "151.80.241.204",
+            "country": "FR"
+        },
+        {
+            "date": "2020-09-23",
+            "time": "18:51:37",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "185.132.53.94",
+            "country": "DE"
+        }
+    ]
+}
