@@ -1,0 +1,25 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-24",
+            "time": "03:00:33",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "cathy",
+            "ip": "154.120.242.70",
+            "country": "ZW"
+        },
+        {
+            "date": "2020-09-24",
+            "time": "03:52:20",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "postgres",
+            "ip": "51.81.32.236",
+            "country": "US"
+        }
+    ]
+}
