@@ -1,0 +1,72 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-26",
+            "time": "23:27:08",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "123.24.205.79",
+            "country": "VN"
+        },
+        {
+            "date": "2020-09-26",
+            "time": "23:27:09",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "178.254.179.119",
+            "country": "ME"
+        },
+        {
+            "date": "2020-09-26",
+            "time": "23:27:11",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "178.254.179.119",
+            "country": "ME"
+        },
+        {
+            "date": "2020-09-26",
+            "time": "23:27:15",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "178.254.179.119",
+            "country": "ME"
+        },
+        {
+            "date": "2020-09-26",
+            "time": "23:27:18",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "178.254.179.119",
+            "country": "ME"
+        },
+        {
+            "date": "2020-09-26",
+            "time": "23:55:55",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "marketing",
+            "ip": "104.131.190.193",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-26",
+            "time": "23:57:24",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ftpuser",
+            "ip": "123.232.102.30",
+            "country": "CN"
+        }
+    ]
+}
