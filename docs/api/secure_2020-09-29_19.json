@@ -1,0 +1,81 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-09-29",
+            "time": "19:06:42",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "tester",
+            "ip": "128.199.149.111",
+            "country": "US"
+        },
+        {
+            "date": "2020-09-29",
+            "time": "19:11:34",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "demo",
+            "ip": "203.195.211.173",
+            "country": "CN"
+        },
+        {
+            "date": "2020-09-29",
+            "time": "19:15:56",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "178.88.201.141",
+            "country": "KZ"
+        },
+        {
+            "date": "2020-09-29",
+            "time": "19:16:01",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "nagesh",
+            "ip": "178.88.201.141",
+            "country": "KZ"
+        },
+        {
+            "date": "2020-09-29",
+            "time": "19:16:01",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "178.88.201.141",
+            "country": "KZ"
+        },
+        {
+            "date": "2020-09-29",
+            "time": "19:45:00",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "171.4.241.205",
+            "country": "TH"
+        },
+        {
+            "date": "2020-09-29",
+            "time": "19:45:14",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "888888",
+            "ip": "171.4.241.205",
+            "country": "TH"
+        },
+        {
+            "date": "2020-09-29",
+            "time": "19:45:14",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "171.4.241.205",
+            "country": "TH"
+        }
+    ]
+}
