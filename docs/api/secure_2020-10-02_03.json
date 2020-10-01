@@ -1,0 +1,53 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-10-02",
+            "time": "03:28:08",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "farmacia",
+            "ip": "116.196.101.168",
+            "country": "CN"
+        },
+        {
+            "date": "2020-10-02",
+            "time": "03:36:53",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "abc",
+            "ip": "64.227.77.30",
+            "country": "US"
+        },
+        {
+            "date": "2020-10-02",
+            "time": "03:38:39",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "user1",
+            "ip": "159.65.237.97",
+            "country": "US"
+        },
+        {
+            "date": "2020-10-02",
+            "time": "03:40:02",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "27.223.89.238",
+            "country": "CN"
+        },
+        {
+            "date": "2020-10-02",
+            "time": "03:52:39",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.122",
+            "country": "NL"
+        }
+    ]
+}
