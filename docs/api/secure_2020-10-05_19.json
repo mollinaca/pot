@@ -1,0 +1,89 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-10-05",
+            "time": "19:35:36",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "95.9.194.238",
+            "country": "TR"
+        },
+        {
+            "date": "2020-10-05",
+            "time": "19:35:41",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "guest",
+            "ip": "95.9.194.238",
+            "country": "TR"
+        },
+        {
+            "date": "2020-10-05",
+            "time": "19:35:41",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "95.9.194.238",
+            "country": "TR"
+        },
+        {
+            "date": "2020-10-05",
+            "time": "19:45:11",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "117.222.117.223",
+            "country": "IN"
+        },
+        {
+            "date": "2020-10-05",
+            "time": "19:45:15",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "user1",
+            "ip": "117.222.117.223",
+            "country": "IN"
+        },
+        {
+            "date": "2020-10-05",
+            "time": "19:45:15",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "117.222.117.223",
+            "country": "IN"
+        },
+        {
+            "date": "2020-10-05",
+            "time": "19:57:33",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "203.88.143.82",
+            "country": "IN"
+        },
+        {
+            "date": "2020-10-05",
+            "time": "19:57:36",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "sniffer",
+            "ip": "203.88.143.82",
+            "country": "IN"
+        },
+        {
+            "date": "2020-10-05",
+            "time": "19:57:37",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "203.88.143.82",
+            "country": "IN"
+        }
+    ]
+}
