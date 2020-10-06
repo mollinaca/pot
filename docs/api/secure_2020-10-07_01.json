@@ -1,0 +1,71 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-10-07",
+            "time": "01:00:08",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.102",
+            "country": "NL"
+        },
+        {
+            "date": "2020-10-07",
+            "time": "01:02:52",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "Admin2",
+            "ip": "134.175.249.84",
+            "country": "CN"
+        },
+        {
+            "date": "2020-10-07",
+            "time": "01:09:04",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "charles",
+            "ip": "154.120.242.70",
+            "country": "ZW"
+        },
+        {
+            "date": "2020-10-07",
+            "time": "01:32:07",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "92.118.160.53",
+            "country": "US"
+        },
+        {
+            "date": "2020-10-07",
+            "time": "01:43:48",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "139.162.122.110",
+            "country": "US"
+        },
+        {
+            "date": "2020-10-07",
+            "time": "01:43:48",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": " ",
+            "ip": "139.162.122.110",
+            "country": "US"
+        },
+        {
+            "date": "2020-10-07",
+            "time": "01:43:48",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "139.162.122.110",
+            "country": "US"
+        }
+    ]
+}
