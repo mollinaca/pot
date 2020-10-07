@@ -1,0 +1,64 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-10-07",
+            "time": "15:21:49",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "167.248.133.52",
+            "country": "US"
+        },
+        {
+            "date": "2020-10-07",
+            "time": "15:25:18",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "fake",
+            "ip": "212.129.53.157",
+            "country": "FR"
+        },
+        {
+            "date": "2020-10-07",
+            "time": "15:25:20",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "212.129.53.157",
+            "country": "FR"
+        },
+        {
+            "date": "2020-10-07",
+            "time": "15:25:24",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ubnt",
+            "ip": "212.129.53.157",
+            "country": "FR"
+        },
+        {
+            "date": "2020-10-07",
+            "time": "15:25:26",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "guest",
+            "ip": "212.129.53.157",
+            "country": "FR"
+        },
+        {
+            "date": "2020-10-07",
+            "time": "15:25:28",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "support",
+            "ip": "212.129.53.157",
+            "country": "FR"
+        }
+    ]
+}
