@@ -1,0 +1,80 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-10-09",
+            "time": "02:21:58",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "hadoop",
+            "ip": "221.6.32.34",
+            "country": "CN"
+        },
+        {
+            "date": "2020-10-09",
+            "time": "02:34:58",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "129.211.92.123",
+            "country": "CN"
+        },
+        {
+            "date": "2020-10-09",
+            "time": "02:39:49",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "151.252.105.134",
+            "country": "RU"
+        },
+        {
+            "date": "2020-10-09",
+            "time": "02:43:57",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "git",
+            "ip": "182.151.2.98",
+            "country": "CN"
+        },
+        {
+            "date": "2020-10-09",
+            "time": "02:44:52",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.219",
+            "country": "NL"
+        },
+        {
+            "date": "2020-10-09",
+            "time": "02:45:01",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.219",
+            "country": "NL"
+        },
+        {
+            "date": "2020-10-09",
+            "time": "02:45:02",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.219",
+            "country": "NL"
+        },
+        {
+            "date": "2020-10-09",
+            "time": "02:48:01",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.100",
+            "country": "NL"
+        }
+    ]
+}
