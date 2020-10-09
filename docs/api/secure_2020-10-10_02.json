@@ -1,0 +1,73 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-10-10",
+            "time": "02:16:16",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "45.14.224.146",
+            "country": "NL"
+        },
+        {
+            "date": "2020-10-10",
+            "time": "02:33:18",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "test",
+            "ip": "104.223.197.227",
+            "country": "US"
+        },
+        {
+            "date": "2020-10-10",
+            "time": "02:33:28",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "firefox",
+            "ip": "106.13.4.132",
+            "country": "CN"
+        },
+        {
+            "date": "2020-10-10",
+            "time": "02:42:09",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "stats",
+            "ip": "188.166.223.76",
+            "country": "SG"
+        },
+        {
+            "date": "2020-10-10",
+            "time": "02:53:48",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "gregory",
+            "ip": "106.12.78.40",
+            "country": "CN"
+        },
+        {
+            "date": "2020-10-10",
+            "time": "02:55:03",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "user",
+            "ip": "200.216.31.148",
+            "country": "BR"
+        },
+        {
+            "date": "2020-10-10",
+            "time": "02:55:04",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "200.216.31.148",
+            "country": "BR"
+        }
+    ]
+}
