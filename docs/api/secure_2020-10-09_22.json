@@ -1,0 +1,72 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-10-09",
+            "time": "22:31:17",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "52.152.129.247",
+            "country": "US"
+        },
+        {
+            "date": "2020-10-09",
+            "time": "22:31:23",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ubnt",
+            "ip": "166.70.207.2",
+            "country": "US"
+        },
+        {
+            "date": "2020-10-09",
+            "time": "22:43:06",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "deployer",
+            "ip": "34.121.99.18",
+            "country": "US"
+        },
+        {
+            "date": "2020-10-09",
+            "time": "22:56:00",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.209.0.251",
+            "country": "NL"
+        },
+        {
+            "date": "2020-10-09",
+            "time": "22:56:08",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.209.0.251",
+            "country": "NL"
+        },
+        {
+            "date": "2020-10-09",
+            "time": "22:56:17",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "administrator",
+            "ip": "167.99.51.159",
+            "country": "US"
+        },
+        {
+            "date": "2020-10-09",
+            "time": "22:56:53",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "rootuser",
+            "ip": "49.235.83.136",
+            "country": "CN"
+        }
+    ]
+}
