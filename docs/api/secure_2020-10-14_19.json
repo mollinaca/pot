@@ -1,0 +1,24 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-10-14",
+            "time": "19:54:03",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "192.241.232.227",
+            "country": "US"
+        },
+        {
+            "date": "2020-10-14",
+            "time": "19:55:07",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "web",
+            "ip": "129.28.92.64",
+            "country": "CN"
+        }
+    ]
+}
