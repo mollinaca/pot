@@ -1,0 +1,35 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-10-17",
+            "time": "04:04:26",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "applprod",
+            "ip": "123.30.157.239",
+            "country": "VN"
+        },
+        {
+            "date": "2020-10-17",
+            "time": "04:14:07",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "Zita",
+            "ip": "129.204.115.121",
+            "country": "CN"
+        },
+        {
+            "date": "2020-10-17",
+            "time": "04:30:34",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "sascha",
+            "ip": "46.146.240.185",
+            "country": "RU"
+        }
+    ]
+}
