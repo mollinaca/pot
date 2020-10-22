@@ -1,0 +1,45 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-10-23",
+            "time": "01:21:44",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "jose",
+            "ip": "54.39.22.191",
+            "country": "CA"
+        },
+        {
+            "date": "2020-10-23",
+            "time": "01:24:08",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "dbmaker",
+            "ip": "122.51.234.65",
+            "country": "CN"
+        },
+        {
+            "date": "2020-10-23",
+            "time": "01:26:47",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ai",
+            "ip": "107.150.125.83",
+            "country": "US"
+        },
+        {
+            "date": "2020-10-23",
+            "time": "01:41:02",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ftp_test",
+            "ip": "182.71.111.138",
+            "country": "IN"
+        }
+    ]
+}
