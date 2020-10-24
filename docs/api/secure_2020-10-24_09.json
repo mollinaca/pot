@@ -1,0 +1,89 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-10-24",
+            "time": "09:12:06",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "45.83.67.77",
+            "country": "DE"
+        },
+        {
+            "date": "2020-10-24",
+            "time": "09:19:12",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "icinga",
+            "ip": "121.100.17.42",
+            "country": "ID"
+        },
+        {
+            "date": "2020-10-24",
+            "time": "09:53:26",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.239.35.130",
+            "country": "NL"
+        },
+        {
+            "date": "2020-10-24",
+            "time": "09:53:28",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "user",
+            "ip": "85.239.35.130",
+            "country": "NL"
+        },
+        {
+            "date": "2020-10-24",
+            "time": "09:53:28",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "85.239.35.130",
+            "country": "NL"
+        },
+        {
+            "date": "2020-10-24",
+            "time": "09:53:29",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.239.35.130",
+            "country": "NL"
+        },
+        {
+            "date": "2020-10-24",
+            "time": "09:53:29",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.239.35.130",
+            "country": "NL"
+        },
+        {
+            "date": "2020-10-24",
+            "time": "09:53:29",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.239.35.130",
+            "country": "NL"
+        },
+        {
+            "date": "2020-10-24",
+            "time": "09:57:05",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "196.52.43.60",
+            "country": "US"
+        }
+    ]
+}
