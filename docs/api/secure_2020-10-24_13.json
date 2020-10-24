@@ -1,0 +1,35 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-10-24",
+            "time": "13:04:16",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ftpu",
+            "ip": "123.206.51.192",
+            "country": "CN"
+        },
+        {
+            "date": "2020-10-24",
+            "time": "13:48:21",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "otrs",
+            "ip": "106.54.219.237",
+            "country": "CN"
+        },
+        {
+            "date": "2020-10-24",
+            "time": "13:56:39",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "nexus",
+            "ip": "182.253.68.122",
+            "country": "ID"
+        }
+    ]
+}
