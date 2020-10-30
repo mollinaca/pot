@@ -1,0 +1,53 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-10-30",
+            "time": "17:03:34",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "git",
+            "ip": "183.250.216.67",
+            "country": "CN"
+        },
+        {
+            "date": "2020-10-30",
+            "time": "17:05:47",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "nginx",
+            "ip": "68.183.70.254",
+            "country": "US"
+        },
+        {
+            "date": "2020-10-30",
+            "time": "17:09:48",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "75.170.53.234",
+            "country": "US"
+        },
+        {
+            "date": "2020-10-30",
+            "time": "17:10:31",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "159.18.94.65",
+            "country": "CA"
+        },
+        {
+            "date": "2020-10-30",
+            "time": "17:15:59",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "klaus",
+            "ip": "192.99.245.135",
+            "country": "CA"
+        }
+    ]
+}
