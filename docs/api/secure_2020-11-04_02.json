@@ -1,0 +1,44 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-11-04",
+            "time": "02:12:50",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "71.215.164.54",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-04",
+            "time": "02:20:03",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ceph",
+            "ip": "103.218.170.102",
+            "country": "IN"
+        },
+        {
+            "date": "2020-11-04",
+            "time": "02:21:37",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "edy",
+            "ip": "221.12.107.26",
+            "country": "CN"
+        },
+        {
+            "date": "2020-11-04",
+            "time": "02:27:14",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "nginx1",
+            "ip": "183.82.121.34",
+            "country": "IN"
+        }
+    ]
+}
