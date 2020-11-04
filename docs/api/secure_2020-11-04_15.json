@@ -1,0 +1,61 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-11-04",
+            "time": "15:04:23",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "49.156.102.206",
+            "country": "IN"
+        },
+        {
+            "date": "2020-11-04",
+            "time": "15:04:26",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin2",
+            "ip": "49.156.102.206",
+            "country": "IN"
+        },
+        {
+            "date": "2020-11-04",
+            "time": "15:04:26",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "49.156.102.206",
+            "country": "IN"
+        },
+        {
+            "date": "2020-11-04",
+            "time": "15:37:00",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "arcgis",
+            "ip": "123.30.157.239",
+            "country": "VN"
+        },
+        {
+            "date": "2020-11-04",
+            "time": "15:42:07",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "198.199.89.226",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-04",
+            "time": "15:45:42",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "162.243.128.160",
+            "country": "US"
+        }
+    ]
+}
