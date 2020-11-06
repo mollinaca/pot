@@ -1,0 +1,88 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-11-06",
+            "time": "23:18:38",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "archivo",
+            "ip": "123.30.157.239",
+            "country": "VN"
+        },
+        {
+            "date": "2020-11-06",
+            "time": "23:32:46",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "67.0.4.34",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-06",
+            "time": "23:39:23",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "102.165.30.45",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-06",
+            "time": "23:46:36",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "75.174.121.15",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-06",
+            "time": "23:47:44",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "191.232.244.135",
+            "country": "BR"
+        },
+        {
+            "date": "2020-11-06",
+            "time": "23:56:16",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "67.1.238.87",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-06",
+            "time": "23:58:27",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "95.104.126.207",
+            "country": "GE"
+        },
+        {
+            "date": "2020-11-06",
+            "time": "23:58:32",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "support",
+            "ip": "95.104.126.207",
+            "country": "GE"
+        },
+        {
+            "date": "2020-11-06",
+            "time": "23:58:32",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "95.104.126.207",
+            "country": "GE"
+        }
+    ]
+}
