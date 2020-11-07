@@ -1,0 +1,33 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-11-08",
+            "time": "07:04:59",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": ".syslog",
+            "ip": "118.27.19.93",
+            "country": "JP"
+        },
+        {
+            "date": "2020-11-08",
+            "time": "07:48:35",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "209.17.97.122",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-08",
+            "time": "07:56:31",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "66.86.132.219",
+            "country": "US"
+        }
+    ]
+}
