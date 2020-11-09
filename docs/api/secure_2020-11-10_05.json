@@ -1,0 +1,74 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-11-10",
+            "time": "05:00:18",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "cs",
+            "ip": "149.202.50.155",
+            "country": "FR"
+        },
+        {
+            "date": "2020-11-10",
+            "time": "05:05:36",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "qcp",
+            "ip": "118.189.74.228",
+            "country": "SG"
+        },
+        {
+            "date": "2020-11-10",
+            "time": "05:05:46",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "dev",
+            "ip": "121.201.61.205",
+            "country": "CN"
+        },
+        {
+            "date": "2020-11-10",
+            "time": "05:07:18",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "usuario",
+            "ip": "165.232.113.27",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-10",
+            "time": "05:26:02",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "testuser1",
+            "ip": "192.99.98.86",
+            "country": "CA"
+        },
+        {
+            "date": "2020-11-10",
+            "time": "05:31:09",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "deploy",
+            "ip": "51.15.54.24",
+            "country": "NL"
+        },
+        {
+            "date": "2020-11-10",
+            "time": "05:38:20",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "162.243.128.197",
+            "country": "US"
+        }
+    ]
+}
