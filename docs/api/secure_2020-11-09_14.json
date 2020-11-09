@@ -1,0 +1,62 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-11-09",
+            "time": "14:12:55",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "app",
+            "ip": "202.155.228.207",
+            "country": "HK"
+        },
+        {
+            "date": "2020-11-09",
+            "time": "14:28:12",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "demo2",
+            "ip": "212.64.77.173",
+            "country": "CN"
+        },
+        {
+            "date": "2020-11-09",
+            "time": "14:32:11",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "5.83.161.28",
+            "country": "DE"
+        },
+        {
+            "date": "2020-11-09",
+            "time": "14:45:05",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "192.241.235.203",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-09",
+            "time": "14:45:05",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "192.241.235.203",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-09",
+            "time": "14:55:27",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "sunil",
+            "ip": "111.229.78.199",
+            "country": "CN"
+        }
+    ]
+}
