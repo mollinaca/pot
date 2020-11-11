@@ -1,0 +1,63 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-11-12",
+            "time": "01:05:04",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ubuntu",
+            "ip": "187.190.109.201",
+            "country": "MX"
+        },
+        {
+            "date": "2020-11-12",
+            "time": "01:11:31",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "cron",
+            "ip": "133.130.97.166",
+            "country": "JP"
+        },
+        {
+            "date": "2020-11-12",
+            "time": "01:19:39",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "a",
+            "ip": "150.165.74.41",
+            "country": "BR"
+        },
+        {
+            "date": "2020-11-12",
+            "time": "01:29:10",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "139.162.247.102",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-12",
+            "time": "01:35:24",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "139.162.247.102",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-12",
+            "time": "01:43:22",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "smart",
+            "ip": "43.226.144.80",
+            "country": "CN"
+        }
+    ]
+}
