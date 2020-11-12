@@ -1,0 +1,94 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-11-12",
+            "time": "08:18:43",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "192.241.234.212",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-12",
+            "time": "08:26:54",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "luis",
+            "ip": "150.136.136.254",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-12",
+            "time": "08:27:59",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "student1",
+            "ip": "195.204.16.82",
+            "country": "NO"
+        },
+        {
+            "date": "2020-11-12",
+            "time": "08:29:57",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "administrador",
+            "ip": "68.183.92.52",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-12",
+            "time": "08:46:12",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "fake",
+            "ip": "142.93.243.122",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-12",
+            "time": "08:46:13",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "142.93.243.122",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-12",
+            "time": "08:46:16",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ubnt",
+            "ip": "142.93.243.122",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-12",
+            "time": "08:46:17",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "guest",
+            "ip": "142.93.243.122",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-12",
+            "time": "08:46:19",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "support",
+            "ip": "142.93.243.122",
+            "country": "US"
+        }
+    ]
+}
