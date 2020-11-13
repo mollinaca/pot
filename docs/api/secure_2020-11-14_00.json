@@ -1,0 +1,53 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-11-14",
+            "time": "00:48:11",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "81.161.63.100",
+            "country": "RU"
+        },
+        {
+            "date": "2020-11-14",
+            "time": "00:48:54",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ubuntu",
+            "ip": "119.45.45.185",
+            "country": "CN"
+        },
+        {
+            "date": "2020-11-14",
+            "time": "00:54:58",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "melissa",
+            "ip": "58.246.71.26",
+            "country": "CN"
+        },
+        {
+            "date": "2020-11-14",
+            "time": "00:55:00",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "b",
+            "ip": "115.159.214.200",
+            "country": "CN"
+        },
+        {
+            "date": "2020-11-14",
+            "time": "00:55:53",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "117.207.80.186",
+            "country": "IN"
+        }
+    ]
+}
