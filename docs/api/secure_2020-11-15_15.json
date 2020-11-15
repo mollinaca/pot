@@ -1,0 +1,74 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-11-15",
+            "time": "15:00:02",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "splunk",
+            "ip": "65.49.222.222",
+            "country": "CA"
+        },
+        {
+            "date": "2020-11-15",
+            "time": "15:03:37",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "quatro",
+            "ip": "163.172.193.248",
+            "country": "FR"
+        },
+        {
+            "date": "2020-11-15",
+            "time": "15:15:19",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "gwapo123",
+            "ip": "163.172.193.248",
+            "country": "FR"
+        },
+        {
+            "date": "2020-11-15",
+            "time": "15:27:03",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "kafka",
+            "ip": "163.172.193.248",
+            "country": "FR"
+        },
+        {
+            "date": "2020-11-15",
+            "time": "15:38:46",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "spotlight",
+            "ip": "163.172.193.248",
+            "country": "FR"
+        },
+        {
+            "date": "2020-11-15",
+            "time": "15:50:30",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "Anna",
+            "ip": "163.172.193.248",
+            "country": "FR"
+        },
+        {
+            "date": "2020-11-15",
+            "time": "15:57:17",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "195.24.207.252",
+            "country": "CM"
+        }
+    ]
+}
