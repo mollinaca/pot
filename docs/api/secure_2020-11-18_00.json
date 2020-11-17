@@ -1,0 +1,33 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-11-18",
+            "time": "00:42:19",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "omnix",
+            "ip": "183.82.121.34",
+            "country": "IN"
+        },
+        {
+            "date": "2020-11-18",
+            "time": "00:52:23",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "81.161.63.252",
+            "country": "RU"
+        },
+        {
+            "date": "2020-11-18",
+            "time": "00:57:19",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "27.50.175.63",
+            "country": "CN"
+        }
+    ]
+}
