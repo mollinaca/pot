@@ -1,0 +1,34 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-11-28",
+            "time": "05:41:06",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "nginx",
+            "ip": "196.15.211.91",
+            "country": "ZA"
+        },
+        {
+            "date": "2020-11-28",
+            "time": "05:45:57",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "78.94.181.182",
+            "country": "DE"
+        },
+        {
+            "date": "2020-11-28",
+            "time": "05:53:15",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "user",
+            "ip": "122.51.52.109",
+            "country": "CN"
+        }
+    ]
+}
