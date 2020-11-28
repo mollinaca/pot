@@ -1,0 +1,35 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-11-29",
+            "time": "06:01:37",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "zope",
+            "ip": "83.239.38.2",
+            "country": "RU"
+        },
+        {
+            "date": "2020-11-29",
+            "time": "06:55:31",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "dovecot",
+            "ip": "134.175.224.105",
+            "country": "CN"
+        },
+        {
+            "date": "2020-11-29",
+            "time": "06:59:23",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "hadoop",
+            "ip": "221.224.253.52",
+            "country": "CN"
+        }
+    ]
+}
