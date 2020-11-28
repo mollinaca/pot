@@ -1,0 +1,54 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-11-28",
+            "time": "09:22:55",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "nagios",
+            "ip": "139.59.83.179",
+            "country": "IN"
+        },
+        {
+            "date": "2020-11-28",
+            "time": "09:24:01",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "postgres",
+            "ip": "81.70.55.21",
+            "country": "CN"
+        },
+        {
+            "date": "2020-11-28",
+            "time": "09:24:57",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "test",
+            "ip": "213.6.130.133",
+            "country": "PS"
+        },
+        {
+            "date": "2020-11-28",
+            "time": "09:43:51",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "165.227.156.41",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-28",
+            "time": "09:59:42",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "36.89.146.90",
+            "country": "ID"
+        }
+    ]
+}
