@@ -1,0 +1,33 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-11-28",
+            "time": "22:24:01",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "194.152.214.213",
+            "country": "HR"
+        },
+        {
+            "date": "2020-11-28",
+            "time": "22:30:49",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "81.161.63.103",
+            "country": "RU"
+        },
+        {
+            "date": "2020-11-28",
+            "time": "22:31:06",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "81.161.63.103",
+            "country": "RU"
+        }
+    ]
+}
