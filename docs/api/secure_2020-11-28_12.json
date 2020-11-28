@@ -1,0 +1,73 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-11-28",
+            "time": "12:11:00",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "81.161.63.253",
+            "country": "RU"
+        },
+        {
+            "date": "2020-11-28",
+            "time": "12:11:11",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "81.161.63.253",
+            "country": "RU"
+        },
+        {
+            "date": "2020-11-28",
+            "time": "12:21:45",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "suvlet",
+            "ip": "182.61.104.246",
+            "country": "CN"
+        },
+        {
+            "date": "2020-11-28",
+            "time": "12:26:07",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "web",
+            "ip": "62.94.206.57",
+            "country": "IT"
+        },
+        {
+            "date": "2020-11-28",
+            "time": "12:37:55",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "web87",
+            "ip": "14.99.81.218",
+            "country": "IN"
+        },
+        {
+            "date": "2020-11-28",
+            "time": "12:48:04",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "gregory",
+            "ip": "122.51.199.69",
+            "country": "CN"
+        },
+        {
+            "date": "2020-11-28",
+            "time": "12:48:41",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "support",
+            "ip": "103.210.72.72",
+            "country": "IN"
+        }
+    ]
+}
