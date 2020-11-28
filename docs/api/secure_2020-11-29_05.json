@@ -1,0 +1,55 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-11-29",
+            "time": "05:11:20",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "gpadmin",
+            "ip": "202.59.166.146",
+            "country": "ID"
+        },
+        {
+            "date": "2020-11-29",
+            "time": "05:41:12",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "support",
+            "ip": "111.68.98.152",
+            "country": "PK"
+        },
+        {
+            "date": "2020-11-29",
+            "time": "05:44:38",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "support",
+            "ip": "51.75.205.10",
+            "country": "FR"
+        },
+        {
+            "date": "2020-11-29",
+            "time": "05:49:36",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "oracle",
+            "ip": "45.156.184.221",
+            "country": "IR"
+        },
+        {
+            "date": "2020-11-29",
+            "time": "05:56:28",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "zabbix",
+            "ip": "106.51.227.10",
+            "country": "IN"
+        }
+    ]
+}
