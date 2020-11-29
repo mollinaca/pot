@@ -1,0 +1,24 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-11-29",
+            "time": "22:03:24",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "192.241.238.100",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-29",
+            "time": "22:55:19",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "mary",
+            "ip": "62.28.253.197",
+            "country": "PT"
+        }
+    ]
+}
