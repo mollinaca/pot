@@ -1,0 +1,43 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-11-29",
+            "time": "11:00:54",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "192.241.237.127",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-29",
+            "time": "11:51:56",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "git",
+            "ip": "49.234.219.31",
+            "country": "CN"
+        },
+        {
+            "date": "2020-11-29",
+            "time": "11:58:48",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": " ",
+            "ip": "65.49.20.69",
+            "country": "US"
+        },
+        {
+            "date": "2020-11-29",
+            "time": "11:58:53",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "65.49.20.69",
+            "country": "US"
+        }
+    ]
+}
