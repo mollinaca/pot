@@ -1,0 +1,62 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-12-04",
+            "time": "04:16:16",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ubnt",
+            "ip": "198.98.59.29",
+            "country": "US"
+        },
+        {
+            "date": "2020-12-04",
+            "time": "04:21:00",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "pi",
+            "ip": "111.14.221.8",
+            "country": "CN"
+        },
+        {
+            "date": "2020-12-04",
+            "time": "04:21:00",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "pi",
+            "ip": "111.14.221.8",
+            "country": "CN"
+        },
+        {
+            "date": "2020-12-04",
+            "time": "04:21:00",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "111.14.221.8",
+            "country": "CN"
+        },
+        {
+            "date": "2020-12-04",
+            "time": "04:21:00",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "111.14.221.8",
+            "country": "CN"
+        },
+        {
+            "date": "2020-12-04",
+            "time": "04:34:26",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "128.14.141.109",
+            "country": "US"
+        }
+    ]
+}
