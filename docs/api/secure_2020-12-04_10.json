@@ -1,0 +1,43 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-12-04",
+            "time": "10:59:02",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "111.224.167.26",
+            "country": "CN"
+        },
+        {
+            "date": "2020-12-04",
+            "time": "10:59:04",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "111.224.167.26",
+            "country": "CN"
+        },
+        {
+            "date": "2020-12-04",
+            "time": "10:59:08",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "111.224.167.26",
+            "country": "CN"
+        },
+        {
+            "date": "2020-12-04",
+            "time": "10:59:10",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "111.224.167.26",
+            "country": "CN"
+        }
+    ]
+}
