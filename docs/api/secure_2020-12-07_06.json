@@ -1,0 +1,24 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-12-07",
+            "time": "06:21:26",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "159.89.174.217",
+            "country": "US"
+        },
+        {
+            "date": "2020-12-07",
+            "time": "06:29:18",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ansible",
+            "ip": "202.131.69.18",
+            "country": "HK"
+        }
+    ]
+}
