@@ -1,0 +1,42 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-12-08",
+            "time": "20:00:47",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "42.189.15.140",
+            "country": "MY"
+        },
+        {
+            "date": "2020-12-08",
+            "time": "20:01:15",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "avanthi",
+            "ip": "42.189.15.140",
+            "country": "MY"
+        },
+        {
+            "date": "2020-12-08",
+            "time": "20:01:16",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "42.189.15.140",
+            "country": "MY"
+        },
+        {
+            "date": "2020-12-08",
+            "time": "20:11:40",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "192.241.238.220",
+            "country": "US"
+        }
+    ]
+}
