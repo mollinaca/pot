@@ -1,0 +1,44 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-12-10",
+            "time": "12:00:47",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "RPM",
+            "ip": "45.155.205.86",
+            "country": "RU"
+        },
+        {
+            "date": "2020-12-10",
+            "time": "12:46:57",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": " ",
+            "ip": "65.49.20.66",
+            "country": "US"
+        },
+        {
+            "date": "2020-12-10",
+            "time": "12:47:01",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "65.49.20.66",
+            "country": "US"
+        },
+        {
+            "date": "2020-12-10",
+            "time": "12:48:45",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "hadoop2",
+            "ip": "103.218.170.102",
+            "country": "IN"
+        }
+    ]
+}
