@@ -1,0 +1,63 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-12-13",
+            "time": "22:09:40",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "amssftp",
+            "ip": "159.203.63.125",
+            "country": "US"
+        },
+        {
+            "date": "2020-12-13",
+            "time": "22:14:57",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "control",
+            "ip": "129.144.181.142",
+            "country": "US"
+        },
+        {
+            "date": "2020-12-13",
+            "time": "22:17:48",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "104.245.41.139",
+            "country": "CA"
+        },
+        {
+            "date": "2020-12-13",
+            "time": "22:18:43",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "zodiac",
+            "ip": "119.45.205.97",
+            "country": "CN"
+        },
+        {
+            "date": "2020-12-13",
+            "time": "22:20:14",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "postgres",
+            "ip": "206.189.171.204",
+            "country": "US"
+        },
+        {
+            "date": "2020-12-13",
+            "time": "22:46:10",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "81.161.63.253",
+            "country": "RU"
+        }
+    ]
+}
