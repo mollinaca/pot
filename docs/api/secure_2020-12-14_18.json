@@ -1,0 +1,24 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-12-14",
+            "time": "18:38:11",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "squid",
+            "ip": "45.155.205.86",
+            "country": "RU"
+        },
+        {
+            "date": "2020-12-14",
+            "time": "18:39:55",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "81.161.63.252",
+            "country": "RU"
+        }
+    ]
+}
