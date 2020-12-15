@@ -1,0 +1,42 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-12-15",
+            "time": "20:03:06",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "odoo",
+            "ip": "192.241.140.103",
+            "country": "US"
+        },
+        {
+            "date": "2020-12-15",
+            "time": "20:03:59",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "85.239.42.68",
+            "country": "NL"
+        },
+        {
+            "date": "2020-12-15",
+            "time": "20:04:09",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.239.42.68",
+            "country": "NL"
+        },
+        {
+            "date": "2020-12-15",
+            "time": "20:04:23",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "85.239.42.68",
+            "country": "NL"
+        }
+    ]
+}
