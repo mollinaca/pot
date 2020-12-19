@@ -1,0 +1,93 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-12-20",
+            "time": "05:32:59",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ubnt",
+            "ip": "23.94.4.168",
+            "country": null
+        },
+        {
+            "date": "2020-12-20",
+            "time": "05:33:01",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "23.94.4.168",
+            "country": "US"
+        },
+        {
+            "date": "2020-12-20",
+            "time": "05:33:05",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "1234",
+            "ip": "23.94.4.168",
+            "country": "US"
+        },
+        {
+            "date": "2020-12-20",
+            "time": "05:33:08",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "usuario",
+            "ip": "23.94.4.168",
+            "country": "US"
+        },
+        {
+            "date": "2020-12-20",
+            "time": "05:33:10",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "support",
+            "ip": "23.94.4.168",
+            "country": "US"
+        },
+        {
+            "date": "2020-12-20",
+            "time": "05:34:26",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "81.161.63.100",
+            "country": "RU"
+        },
+        {
+            "date": "2020-12-20",
+            "time": "05:35:36",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "aaaidc",
+            "ip": "49.235.83.136",
+            "country": "CN"
+        },
+        {
+            "date": "2020-12-20",
+            "time": "05:40:50",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "antonior",
+            "ip": "202.131.69.18",
+            "country": "HK"
+        },
+        {
+            "date": "2020-12-20",
+            "time": "05:54:40",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "209.17.96.186",
+            "country": "US"
+        }
+    ]
+}
