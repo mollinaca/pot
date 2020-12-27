@@ -1,0 +1,62 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-12-27",
+            "time": "09:21:18",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "157.131.167.179",
+            "country": "US"
+        },
+        {
+            "date": "2020-12-27",
+            "time": "09:32:17",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "zl",
+            "ip": "132.232.19.205",
+            "country": "CN"
+        },
+        {
+            "date": "2020-12-27",
+            "time": "09:36:12",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "164.68.112.178",
+            "country": "DE"
+        },
+        {
+            "date": "2020-12-27",
+            "time": "09:38:15",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "81.161.63.253",
+            "country": "RU"
+        },
+        {
+            "date": "2020-12-27",
+            "time": "09:42:22",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "jedi",
+            "ip": "159.65.148.176",
+            "country": "US"
+        },
+        {
+            "date": "2020-12-27",
+            "time": "09:50:12",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "tester",
+            "ip": "110.164.189.53",
+            "country": "TH"
+        }
+    ]
+}
