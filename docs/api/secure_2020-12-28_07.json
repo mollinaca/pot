@@ -1,0 +1,54 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-12-28",
+            "time": "07:38:08",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "31.220.53.197",
+            "country": "US"
+        },
+        {
+            "date": "2020-12-28",
+            "time": "07:38:29",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "sdtdserver",
+            "ip": "45.90.109.12",
+            "country": "US"
+        },
+        {
+            "date": "2020-12-28",
+            "time": "07:39:16",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "nuc",
+            "ip": "139.186.4.114",
+            "country": "CN"
+        },
+        {
+            "date": "2020-12-28",
+            "time": "07:53:48",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "83.97.20.29",
+            "country": "RO"
+        },
+        {
+            "date": "2020-12-28",
+            "time": "07:53:51",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "low",
+            "ip": "51.83.128.135",
+            "country": "PL"
+        }
+    ]
+}
