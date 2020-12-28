@@ -1,0 +1,74 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-12-28",
+            "time": "16:10:26",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "student1",
+            "ip": "159.65.144.102",
+            "country": "US"
+        },
+        {
+            "date": "2020-12-28",
+            "time": "16:12:51",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "appluat",
+            "ip": "91.230.146.146",
+            "country": "RU"
+        },
+        {
+            "date": "2020-12-28",
+            "time": "16:15:02",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "bot",
+            "ip": "124.205.84.11",
+            "country": "CN"
+        },
+        {
+            "date": "2020-12-28",
+            "time": "16:15:31",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ftpuser",
+            "ip": "125.22.9.186",
+            "country": "IN"
+        },
+        {
+            "date": "2020-12-28",
+            "time": "16:18:03",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "aaa",
+            "ip": "108.61.178.217",
+            "country": "US"
+        },
+        {
+            "date": "2020-12-28",
+            "time": "16:18:22",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "charlie",
+            "ip": "42.63.23.133",
+            "country": "CN"
+        },
+        {
+            "date": "2020-12-28",
+            "time": "16:20:42",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "167.248.133.54",
+            "country": "US"
+        }
+    ]
+}
