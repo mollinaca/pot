@@ -1,0 +1,35 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2020-12-29",
+            "time": "19:31:05",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "raj",
+            "ip": "49.235.75.232",
+            "country": "CN"
+        },
+        {
+            "date": "2020-12-29",
+            "time": "19:43:53",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "diradmin",
+            "ip": "163.172.169.34",
+            "country": "FR"
+        },
+        {
+            "date": "2020-12-29",
+            "time": "19:44:38",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "appuser",
+            "ip": "138.19.114.68",
+            "country": "HK"
+        }
+    ]
+}
