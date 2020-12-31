@@ -1,0 +1,44 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2021-01-01",
+            "time": "01:00:01",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "upload",
+            "ip": "51.254.37.237",
+            "country": "FR"
+        },
+        {
+            "date": "2021-01-01",
+            "time": "01:01:52",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "amit",
+            "ip": "81.69.200.59",
+            "country": "CN"
+        },
+        {
+            "date": "2021-01-01",
+            "time": "01:51:33",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "admin",
+            "ip": "193.169.252.59",
+            "country": "PL"
+        },
+        {
+            "date": "2021-01-01",
+            "time": "01:51:33",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "193.169.252.59",
+            "country": "PL"
+        }
+    ]
+}
