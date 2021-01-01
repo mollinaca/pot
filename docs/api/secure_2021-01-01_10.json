@@ -1,0 +1,91 @@
+{
+    "ok": true,
+    "logs": [
+        {
+            "date": "2021-01-01",
+            "time": "10:05:47",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "t3rr0r",
+            "ip": "159.203.165.156",
+            "country": "US"
+        },
+        {
+            "date": "2021-01-01",
+            "time": "10:22:35",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "ftpuser",
+            "ip": "197.5.145.68",
+            "country": "TN"
+        },
+        {
+            "date": "2021-01-01",
+            "time": "10:33:24",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Did not receive identification string",
+            "ip": "157.230.123.7",
+            "country": "US"
+        },
+        {
+            "date": "2021-01-01",
+            "time": "10:43:24",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "postgres",
+            "ip": "51.254.157.144",
+            "country": "FR"
+        },
+        {
+            "date": "2021-01-01",
+            "time": "10:52:31",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "192.241.220.39",
+            "country": "US"
+        },
+        {
+            "date": "2021-01-01",
+            "time": "10:53:48",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "user",
+            "ip": "185.156.74.65",
+            "country": "NL"
+        },
+        {
+            "date": "2021-01-01",
+            "time": "10:53:49",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "185.156.74.65",
+            "country": "NL"
+        },
+        {
+            "date": "2021-01-01",
+            "time": "10:53:50",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Invalid user",
+            "user": "user",
+            "ip": "185.156.74.65",
+            "country": "NL"
+        },
+        {
+            "date": "2021-01-01",
+            "time": "10:53:50",
+            "TZ": "+09:00",
+            "log_type": "secure",
+            "log_type_sub": "Connection closed",
+            "ip": "185.156.74.65",
+            "country": "NL"
+        }
+    ]
+}
